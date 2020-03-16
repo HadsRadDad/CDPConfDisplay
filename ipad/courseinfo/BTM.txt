@@ -1,0 +1,36 @@
+<h1><center>Bomb Threat Management Planning (BTM)</center></h1>
+
+<h2>Overview</h2>
+<p>The Bomb Threat Management (BTM) Planning course introduces students to the Department of Homeland Security (DHS) risk-management process and the development of the BTM plan. The one-day course includes activities that allow responders to apply specific portions of the risk-management process and their newly acquired knowledge about bomb-threat management procedures to critique mock BTM plans. The course culminates in an experiential learning activity in which learners revise a BTM plan using the findings of the individual module learning activities and the knowledge gained throughout the course.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+
+<ul>
+    <li>Correctly identify the key concepts from the prerequisite courses.</li>
+    <li>Apply the DHS risk-management process.</li>
+    <li>Describe the roles and responsibilities of each member of the bomb threat management (BTM) team.</li>
+	<li>Determine appropriate recommendations for improving a mock plan. </li>
+	<li>Evaluate and revise a BTM plan for a given venue.</li>
+</ul>
+
+<h2>Prerequisites and Requirements</h2>
+<p>To be eligible for the course, the student must successfully complete the following course:</p>
+
+<ul>
+    <li>IS-100.b, Introduction to the Incident Command System, IS-100, or any of the available ICS-100 series</li>
+</ul>
+
+<p>This courses is recommended but is not a requirement:</p>
+
+<ul>
+<li>Response to Suspicious Behaviors and Items taught by virtual instructor-led training.</li>
+</ul>
+
+<h2>Course Length</h2>
+<p>1.0 days</p>
+
+<h2>Continuing Education Credits</h2>
+<ul>
+	<li>The Center for Domestic Preparedness is authorized by IACET to offer .8 CEUs for this program.</li>
+	<li>Police Officer Standards and Training (POST), if approved by the student's state: .8</li>
+</ul>
+</div>

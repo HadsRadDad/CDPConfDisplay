@@ -1,0 +1,24 @@
+<!--COURSE TITLE--><h1><center>REP Plan Review (RPPR)</center></h1>
+<!--course media<div class="leftin"><img class="outside" src="http://192.168.0.5/media/ht01.jpg"></div>
+<div class="rightin"><img class="outside" src="http://192.168.0.5/media/ht02.jpg"></div>
+<center><video width="600" controls autoplay>
+  <source src="http://192.168.0.5/media/ht.mp4" type="video/mp4">
+  <source src="http://192.168.0.5/media/ht.mp4" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video></center>
+END OF COURSE MEDIA
+<div class="photos"-->
+<!--COURSE INFO-->
+<h2>Overview</h2>
+<p>The Radiological Emergency Preparedness (REP) REP Plan Review Course (RPPR) is a three-day course which focuses on the review of REP emergency plans, specifically the NUREG 0654 planning standards that address the public's health and safety. This revised REP Plan Review Course will include training based on the Comprehensive Preparedness Guide (CPG) -101, familiarization of Hostile Action Based (HAB) plan review, annual plan review, and the Annual Letter of Certification Review process. Required: Each student should bring a copy of their ORO's REP Plan for use during the classroom exercises, to include the NUREG Cross-reference (electronic or otherwise).</p>
+<h2>Additional Requirements</h2>
+<p>To be eligible to attend the Radiological Emergency Response Operations course, a candidate must:</p>
+<ul>
+	<li>Complete the AWR-317 REP Core Concepts Course (RCCC)</li>
+	<li>Complete IS-235.c Emergency Planning Course</li>
+</ul>
+<p><i>Exceptions to any of the above prerequisites may be granted on a case-by-case basis at the discretion of the CDP Registrar.</i></p>
+<h2>Course Length</h2>
+<p>2.5 days</p>
+</div>
+</div>

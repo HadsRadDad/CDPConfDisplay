@@ -1,0 +1,22 @@
+<h1><center>Healthcare Emergency Response Operations for CBRNE Incidents (HERO)</center></h1>
+
+<h2>Overview</h2>
+<p>Students are provided knowledge and skills for providing care to CBRNE mass casualty victims; knowledge and practical experience in the safe donning, operating in, and doffing of PPE; basic knowledge of the procedures for decontaminating CBRNE victims and responders; and practical experience in the execution of tagging, triaging and treatment protocols for mass casualty victims of a CBRNE incident.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+    <li>Don and doff PPE</li>
+    <li>Process through technical decontamination</li>
+    <li>Interpret triage tags - Perform triage of mass casualty victims</li>
+	<li>Perform treatment protocols for a victim of biological agent exposure </li>
+	<li>Perform treatment protocols for a victim of chemical agent exposure</li>
+	<li>Perform treatment protocols for a victim of radiation exposure</li>
+	<li>Perform treatment protocols for a victim of a blast injury</li>
+</ul>
+<h2>Prerequisites and Requirements</h2>
+<p>Possess basic skill in routine triage and treatment procedures; be physically and mentally capable of operating in personal protective equipment that fully covers the head or conforms tightly to the face; and be physically capable of assisting, moving, triaging, and treating simulated victims of a CBRNE incident. Exceptions to the prerequisites may be granted on a case-by-case basis at the discretion of the Center for Domestic Preparedness Registrar.</p>
+<p>To be eligible for the course, the student must successfully complete the following courses:</p>
+<ul>
+    <li>PER-271 Emergency Medical Response Awareness for CBRNE Incidents (EMRA) course</li>
+</ul>
+<h2>Course Length</h2>
+<p>1.0 days</p>

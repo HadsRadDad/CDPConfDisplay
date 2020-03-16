@@ -1,0 +1,41 @@
+<!--COURSE TITLE--><h1><center>Radiological Series, Train the Trainer (RAD TtT)</center></h1>
+<!--course media<div class="leftin"><img class="outside" src="http://192.168.0.5/media/ht01.jpg"></div>
+<div class="rightin"><img class="outside" src="http://192.168.0.5/media/ht02.jpg"></div>
+<center><video width="600" controls autoplay>
+  <source src="http://192.168.0.5/media/ht.mp4" type="video/mp4">
+  <source src="http://192.168.0.5/media/ht.mp4" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video></center>
+END OF COURSE MEDIA
+<div class="photos"-->
+<!--COURSE INFO-->
+<h2>Overview</h2>
+<p>The Radiological Series, Train-the-Trainer (RAD TtT) is a four-day course designed for individuals the state has identified as part of a cadre of instructors and trainers responsible for providing radiological training in their jurisdictions. The course is designed to strengthen the capacity of trainers by applying principles of adult learning and training and facilitation skills in practice training sessions. The course provides students with the knowledge, skills, and ability to conduct the training for which they are responsible.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+<li>Describe updates to current standards, regulations, federal guidance, and radiological series training curriculum.</li>
+<li>Identify the training implications of current issues in radiological preparedness.</li>
+<li>Differentiate between adult-learning styles and preferences and how they affect learning.</li>
+<li>Identify audience needs and concerns when planning, administering, conducting, teaching, and evaluating the courses.</li>
+<li>Participate in the setup, conduct, and evaluation of an emergency department exercise.</li>
+<li>Demonstrate an understanding of course content and associated materials by adapting materials to audience’s special concerns or needs.</li>
+<li>Demonstrate a variety of training methodologies and facilitation skills while conducting stand-up training.</li>
+</ul>
+<h2>Prerequisites and Requirements</h2>
+<p>To be eligible for the course, the student must successfully complete the following courses:</p>
+<ul>
+<li>AWR-160, WMD/Terrorism Awareness for Emergency Responders;</li>
+<li>Fundamentals Course for Radiological Response;</li>
+<li>IS 301, Radiological Emergency Response;</li>
+<li>IS 346, Orientation to Hazardous Material for Medical Personnel; and</li>
+<li>PER-904, Radiological Emergency Response Operations.</li>
+</ul>
+<h2>Course Length</h2>
+<p>4.0 days</p>
+<h2>Continuing Education Credits</h2>
+<ul>
+<li>The Center for Domestic Preparedness is authorized by IACET to offer 3.2 CEUs for this program.</li>
+<li>Police Officer Standards and Training (POST); approved per state): 32</li>
+</ul>
+</div>
+</div>

@@ -1,0 +1,23 @@
+<h1><center>Bombing Prevention Awareness Course (BPAC)</center></h1>
+
+<h2>Overview</h2>
+<p>The Bombing Prevention Awareness Course (BPAC) provides emergency responders with an overview of bombing-prevention measures. During the one-day course, responders learn to understand basic concepts of general bombing prevention knowledge.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program.</p>
+
+<ul>
+    <li>Evaluate the function and purpose of improvised explosive devices (IEDs).</li>
+    <li>Identify explosive effects of IEDs.</li>
+    <li>Evaluate the terrorist attack style.</li>
+	<li>Identify indicators of suspicious behaviors and items.</li>
+	<li>Identify protective measures.</li>
+</ul>
+
+<h2>Course Length</h2>
+<p>1.0 days</p>
+
+<h2>Continuing Education Credits</h2>
+<ul>
+	<li>The Center for Domestic Preparedness is authorized by IACET to offer .8 CEUs for this program.</li>
+	<li>Police Officer Standards and Training (POST), if approved by the student's state: .8</li>
+</ul>
+</div>

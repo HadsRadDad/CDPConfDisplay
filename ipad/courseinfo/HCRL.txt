@@ -1,0 +1,40 @@
+<!--COURSE TITLE--><h1><center>Healthcare Coalition Response Leadership Course (HCRL)</center></h1>
+<!--course media<div class="leftin"><img class="outside" src="http://192.168.0.5/media/ht01.jpg"></div>
+<div class="rightin"><img class="outside" src="http://192.168.0.5/media/ht02.jpg"></div>
+<center><video width="600" controls autoplay>
+  <source src="http://192.168.0.5/media/ht.mp4" type="video/mp4">
+  <source src="http://192.168.0.5/media/ht.mp4" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video></center>
+END OF COURSE MEDIA
+<div class="photos"-->
+<!--COURSE INFO-->
+<h2>Overview</h2>
+<p>The Healthcare Coalition Response Leadership Course (HCRL) is based on the U.S. Department of Health and Human Services’ Healthcare System and the Centers for Disease Control and Prevention Public Health Preparedness Capabilities, as well as best-practice procedures for healthcare-coalition building, preparedness, response, and recovery. The three-day course provides instruction and facilitated discussion in best practices and lessons learned in establishing an effective healthcare-coalition framework and conducting healthcare-coalition planning, as well as and achieving preparedness. The course provides instruction on the development of indicators, triggers, and tactics for proactive coalition planning; and approaches techniques, and instruction on the considerations for healthcare coalition response and recovery leadership. The course also provides extensive practical experience in healthcare coalition leadership team response through a series of progressive exercises designed to emulate realistic community and regional public health and medical emergencies.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+
+<ul>
+	<li>Discuss the best practice methods and means for establishing a healthcare coalition framework.</li>
+	<li>Discuss the best practice methods and means for preparing to respond as a healthcare coalition.</li>
+	<li>Develop indicators, triggers, and tactics for a proactive healthcare response.</li>
+	<li>Manage a response to a public health and/or medical emergency as a leadership team member for a healthcare coalition.</li>
+</ul>
+
+<h2>Prerequisites and Requirements</h2>
+<p>To be eligible for the course, the student must successfully complete the following courses:</p>
+
+<ul>
+	<li>Must serve in a leadership role for an existing or developing healthcare coalition.</li>
+</ul>
+
+<p>Exceptions to the above prerequisites may be granted on a case-by-case basis at the discretion of the CDP Registrar.</p>
+
+<h2>Course Length</h2>
+<p>3.0 days</p>
+
+<h2>Continuing Education Credits</h2>
+
+<ul>
+	<li>The Center for Domestic Preparedness is authorized by IACET to offer 2.4 CEUs for this program.</li>
+</ul>
+</div>

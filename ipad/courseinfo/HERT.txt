@@ -1,0 +1,43 @@
+<!--COURSE TITLE--><h1><center>Hospital Emergency Response Training for Mass Casualty Incidents (HERT)</center></h1>
+<!--course media--><div class="leftin"><img class="outside" src="http://192.168.0.5/media/hert01.jpg"></div>
+<div class="rightin"><img class="outside" src="http://192.168.0.5/media/hert02.jpg"></div>
+<center><video width="600" controls autoplay>
+  <source src="http://192.168.0.5/media/hert.mp4" type="video/mp4">
+  <source src="http://192.168.0.5/media/hert.mp4" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video></center>
+<!--END OF COURSE MEDIA-->
+<div class="photos">
+<!--COURSE INFO-->
+<h2>Overview</h2>
+<p>The Hospital Emergency Response Training for Mass Casualty Incidents course addresses healthcare response at the operations level for the facility and its personnel. This course prepares healthcare responders to utilize the Hospital Incident Command System (HICS) integrating into the community emergency response network while operating an Emergency Treatment Area (ETA) as hospital first responders during a mass casualty incident (MCI) involving patient contamination. The healthcare responders will determine and use appropriate Personal Protective Equipment (PPE), and conduct triage followed by decontamination of ambulatory and nonambulatory patients as members of a Hospital Emergency Response Team (HERT).</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+    <li>Analyze the need, composition, and use of a HERT during an emergency, MCI, or disaster situation</li>
+    <li>Summarize the organization and operation of HICS as it integrates with the Incident Command System (ICS) during response to an MCI</li>
+    <li>Differentiate the medical responses to a variety of illnesses and injuries that may result from an MCI</li>
+    <li>Select and use the appropriate level of PPE as hospital first receivers in response to a disaster involving patient contamination</li>
+    <li>Structure the healthcare facility ETA to support medical operations in response to an MCI</li>
+    <li>Establish a HERT that meets all safety requirements, provides security to the hospital, and efficiently manages patients for processing into the hospital facility for follow-up treatment</li>
+    <li>Compare decontamination methods and procedures</li>
+    <li>Perform Simple Triage and Rapid Treatment&#169 (START) and JumpSTART procedures within the ETA during a hospital response to an MCI involving contamination</li>
+    <li>Conduct operations in an ETA while wearing appropriate PPE in response to an MCI involving contamination</li>
+    <li>Conduct an effective medical response to an MCI using the HERT approach</li>
+</ul>
+<h2>Course Length</h2>
+<p>3.0 days</p>
+<h2>Additional Requirements</h2>
+<ul>
+<li>To be eligible for the course, the student must successfully complete: AWR160, Standardized Awareness Training; IS-100.HCb, Introduction to Incident Command System for Healthcare/Hospitals;IS-200.HCa, Applying ICS to Healthcare Organizations; and IS-700.a, National Incident Management System, An Introduction.</li>
+<li>It is recommended to have successfully completed operations-level CBRNE (chemical, biological, radiological, nuclear and explosive) or hazardous materials training as specified in 29 CFR 1910.120(g)(6)(ii), at a minimum.</li>
+</ul>
+<h2>Continuing Education Credits</h2>
+<ul>
+<li>The Center for Domestic Preparedness is authorized by IACET to offer 2.4 continuing education units for this program</li>
+<li>Nursing through Alabama Board of Nursing (nurses only): 24</li>
+<li>Continuing Medical Education, through University of Alabama at Birmingham (additional allied health professionals may be able to apply for these continuing medical education units): 24</li>
+<li>CA Environmental Health Specialist, through National Environmental Health Association (environmental health professionals): 32</li>
+<li>Police Officer Standards and Training (POST), if approved by the student's state: 24</li>
+</ul>
+</div>
+</div>

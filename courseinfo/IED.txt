@@ -1,0 +1,35 @@
+<!--COURSE TITLE--><h1><center>Improvised Explosive Device Search Procedures Course (IED Search)</center></h1>
+<!--course media<div class="leftin"><img class="outside" src="http://localhost/media/ht01.jpg"></div>
+<div class="rightin"><img class="outside" src="http://localhost/media/ht02.jpg"></div>
+<center><video width="600" controls autoplay>
+  <source src="http://localhost/media/ht.mp4" type="video/mp4">
+  <source src="http://localhost/media/ht.mp4" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video></center>
+END OF COURSE MEDIA
+<div class="photos"-->
+<!--COURSE INFO-->
+<h2>Overview</h2>
+<p>The Improvised Explosive Device (IED) Search Procedures Course is a one-day course that introduces the student to basic, low-risk search protocols. It provides learning activities that allow students to perform IED searches of a facility, an area, and a route. Students will be assessed through a performance-based assessment on the searches and a multiple-choice test.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+<li>Using a bomb-threat management plan, describe the components of the search section.</li>
+<li>Describe the general procedures to conduct a safe and legal IED search, based on identified priorities.</li>
+<li>Describe the search procedures for different location scenarios.</li>
+<li>Working in pairs and using a Room Search Card and Search kit, execute facility, area, and route searches.</li>
+</ul>
+<h2>Prerequisites and Requirements</h2>
+<p>Below are recommended prerequisites, but are not required before attendance:</p>
+<ul>
+<li>AWR-333: Improvised Explosive Device Construction and Classification;</li>
+<li>AWR-337: Improvised Explosive Device Explosive Effects Mitigation; and</li>
+<li>AWR-338: Homemade Explosive and Precursor Awareness.</li>
+</ul>
+<h2>Course Length</h2>
+<p>1.0 days</p>
+<h2>Continuing Education Credits</h2>
+<ul>
+<li>The Center for Domestic Preparedness is authorized by IACET to offer 0.8 CEUs for this program.</li>
+</ul>
+</div>
+</div>

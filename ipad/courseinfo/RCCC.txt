@@ -1,0 +1,22 @@
+<!--COURSE TITLE--><h1><center>REP Core Concepts (RCCC)</center></h1>
+<!--course media<div class="leftin"><img class="outside" src="http://192.168.0.5/media/ht01.jpg"></div>
+<div class="rightin"><img class="outside" src="http://192.168.0.5/media/ht02.jpg"></div>
+<center><video width="600" controls autoplay>
+  <source src="http://192.168.0.5/media/ht.mp4" type="video/mp4">
+  <source src="http://192.168.0.5/media/ht.mp4" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video></center>
+END OF COURSE MEDIA
+<div class="photos"-->
+<!--COURSE INFO-->
+<h2>Overview</h2>
+<p>The Radiological Emergency Preparedness (REP) Core Concepts Course (RCCC) is a 1.5-day course which focuses on the nuclear power plant off-site radiological emergency preparedness program. It addresses the history and sentinel events, federal regulatory policies, basic radiation principles, REP planning guidance (planning standards), REP demonstration guidance (exercise evaluation areas) and the REP Disaster Initiated Review (DIR) process. At the successful completion of this course, the student will have satisfied the instructor-led training prerequisites for both the L-340 REP Program and Planning Course (RPPC) and the L-304 REP Exercise Evaluator Course (REEC).</p>
+<h2>Prerequisites and Requirements</h2>
+<p>To be eligible to attend the course, a candidate must:</p>
+<ul>
+<li>Have successfully completed IS-3, Radiological Emergency Management (FEMA Independent Study Course)</li>
+</ul
+<h2>Course Length</h2>
+<p>1.5 days</p>
+</div>
+</div>

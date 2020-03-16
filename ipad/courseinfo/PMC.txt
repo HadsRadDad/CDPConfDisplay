@@ -1,0 +1,38 @@
+<!--COURSE TITLE--><h1><center>Protective Measures Course (PMC)</center></h1>
+<!--course media<div class="leftin"><img class="outside" src="http://192.168.0.5/media/ht01.jpg"></div>
+<div class="rightin"><img class="outside" src="http://192.168.0.5/media/ht02.jpg"></div>
+<center><video width="600" controls autoplay>
+  <source src="http://192.168.0.5/media/ht.mp4" type="video/mp4">
+  <source src="http://192.168.0.5/media/ht.mp4" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video></center>
+END OF COURSE MEDIA
+<div class="photos"-->
+<!--COURSE INFO-->
+<h2>Overview</h2>
+<p>The Protective Measures Course is a one-day course that provides an overview of identifying risk and the development of appropriate protective measures for different facility characteristics. The course provides activities that allow students to apply a modified vulnerability assessment to identify risks and determine appropriate protective measures for a given environmental venue.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+<li>Describe the consequences of an explosion.</li>
+<li>Describe the Department of Homeland Security risk management process.</li>
+<li>Discuss how the different types of physical and procedural protective measures can be leveraged to interrupt terrorist/criminal activity.</li>
+<li>Identify appropriate protective measures.</li>
+<li>Plan the security for a special event/public gathering.</li>
+</ul>
+<h2>Prerequisites and Requirements</h2>
+<p>Below are recommended prerequisites, but are not required before attendance:</p>
+<ul>
+<li>DHS AWR-337: IED Explosive Effects Mitigation;</li>
+<li>IS-156: Building Design for Homeland Security for Continuity of Operations;</li>
+<li>ICS-100: Introduction to the Incident Command System;</li>
+<li>ICS-200: ICS for Single Resources and Initial Action Incidents; and</li>
+<li>IS-15.b: Special Events Contingency Planning for Public Safety Agencies.</li>
+</ul>
+<h2>Course Length</h2>
+<p>1.0 days</p>
+<h2>Continuing Education Credits</h2>
+<ul>
+<li>The Center for Domestic Preparedness is authorized by IACET to offer 0.7 CEUs for this program.</li>
+</ul>
+</div>
+</div>

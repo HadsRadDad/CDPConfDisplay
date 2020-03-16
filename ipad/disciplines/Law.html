@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="./coursestyle.css">
+</head>
+<body>
+<div class="main">
+<button id="home" onclick="history.go(-1)">Home</button>
+
+<!-- DISCIPLINE Title--> <div class="top"><div class=fema><img class="fema" src="fema.png"></img></div>Law Enforcement</div>
+
+<!--buttons-->
+<div class="left">
+
+<button class="button" id="FFE">Field Force Extrication Tactics (FFE)</button>
+
+<button class="button" id="FFO">Field Force Operations (FFO)</button>
+
+<button class="button" id="HMT">Hazardous Materials Technician (HMT)</button>    
+
+<button class="button" id="HOTLE">Intermediate Hands-On Training for CBRNE Incidents: Law Enforcement (HOT-LE)</button>    
+
+<button class="button" id="LEPM">Law Enforcement Protective Measures for CBRNE Incidents (LEPM)</button>
+
+<button class="button" id="LERA">Law Enforcement Response Actions for CBRNE Incidents (LERA)</button>    
+
+</div>
+<!--End of buttons-->
+
+ <div class="infobox">
+<div class="right" id="classinfo">
+
+</div>
+</div>
+<!--end course stuff-->
+<script src="../jquery-3.2.0.js"></script>
+<script>
+    $(function(){
+        $('#classinfo').load('http://192.168.0.5/ipad/courseinfo/FFO.txt');
+    });
+</script>
+
+<script>
+    $(document).ready(function(){
+        $('button').each(function(index, value) {
+            $(`#${this.id}`).click(function(){
+                $('#classinfo').load(`http://192.168.0.5/ipad/courseinfo/${this.id}.txt`);
+            });
+        });
+    });
+</script>
+
+<script>
+var a=document.getElementsByTagName("a");
+for(var i=0;i<a.length;i++) {
+    if(!a[i].onclick && a[i].getAttribute("target") != "_blank") {
+        a[i].onclick=function() {
+                window.location=this.getAttribute("href");
+                return false; 
+        }
+    }
+}
+</script>
+</body>
+
+
+</html>

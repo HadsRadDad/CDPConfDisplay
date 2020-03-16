@@ -1,0 +1,17 @@
+<h1><center>Radiological Concepts, Tactics and Integration (RCTIC)</center></h1>
+
+<h2>Overview</h2>
+<p>Participants will use a variety of radiation detection assets and equipment required to conduct search operations either for a radiation/nuclear threat or to secure a facility in preparation for a public event. Participants will apply tactics and techniques required to effectively utilize equipment necessary to detect and identify a radiological source.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program.</p>
+<ul>
+    <li>Perform an initial threat/no-threat adjudication of a radiation alarm based on the totality of the circumstances surrounding the alarm.</li>
+    <li>Submit a comprehensive radiation alarm event package to Triage for adjudication and response.</li>
+</ul>
+<h2>Prerequisites and Requirements</h2>
+<p>Deployable law enforcement, regulatory personnel or other first responder organization(s) who currently possess radiation detection capabilities and would serve in a “search, locate, and identify” mission capacity; requires a basic understanding of radioactive materials, nuclear radiation, and the use of radiation/nuclear detection equipment.</p>
+<p><i>Exceptions to any of these requirements may be granted on a case by case basis by the DNDO Training Program Manager.</i></p>
+<p>To be eligible for the course, the student must successfully complete the following courses: Completion of a basic level Rad/Nuc equipment training course, such as, AWR-140-W WMD Radiological/Nuclear Awareness Course.</p>
+<h2>Course Length</h2>
+<p>3.0 days</p>
+
+</div>

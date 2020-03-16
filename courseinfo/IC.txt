@@ -1,0 +1,40 @@
+<h1><center>Incident Command: Capabilities, Planning and Response Actions for All Hazards (IC)</center></h1>
+
+<!--Media-->
+<div class="leftin"><img class="outside" src="http://localhost/media/ic01.jpg"></div>
+<div class="rightin"><img class="outside" src="http://localhost/media/ic02.jpg"></div>
+<div class="middlein"><img class="middle" src="http://localhost/media/ic03.jpg"></div>
+<!--end media-->
+
+<!--course stuff-->
+<div class="photos">
+<h2>Overview</h2>
+<p>Incident Command: Capabilities, Planning, and Response Actions for All Hazards (IC) is a three-day course that provides management-level responders with knowledge of how decisions made by responders from various disciplines can impact the handling of a chemical, biological, radiological, nuclear, or explosive (CBRNE) incident. The importance of planning and training for a CBRNE incident response is stressed to participants, thus the course incorporates preparedness planning considerations and incident management concepts to train participants to serve as members of an incident management team. Participants are immersed in a curriculum that will promote development of their abilities to evaluate the threat, identify and prioritize probable targets, measure required capabilities, and discuss the Incident Response Plan (IRP) and Incident Action Plan (IAP) processes. The course culminates with a real-time, scenario-driven tabletop exercise that requires participants to apply concepts learned during the course to plan for and manage emergency response resources.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+    
+    <li>Identify responsibilities of personnel within the incident command system.</li>
+    <li>Establish the initial command, perform a needs assessment, and institute accountability, life safety, scene stabilization, and property conservation measures.</li>
+    <li>Establish a relationship between the Incident Commander (IC) and the Emergency Operations Center (EOC).</li>
+    <li>Conduct a target vulnerability assessment that results in an accurate jurisdiction vulnerability rating for a CBRNE scenario.</li>
+    <li>Identify and prioritize probable targets, measure required capabilities, and develop a local IAP for a CBRNE incident.</li>
+    <li>Identify the government agencies and private sector resources that may offer assistance during a CBRNE incident.</li>
+    
+</ul>
+
+<h2>Additional Requirements</h2>
+<p>To be eligible for the course, the student must successfully complete the following courses:</p>
+<ul>
+<li>AWR-160, WMD/Terrorism Awareness for Emergency Responders;</li>
+<li>IS-100.b, Introduction to the Incident Command System or any of the available ICS-100 series; and</li>
+<li>IS-200.b, ICS for Single Resources and Initial Action Incidents or any of the available ICS-200 series.</li>
+</ul>
+<h2>Course Length</h2>
+<p>3.0 days</p>
+<h2>Continuing Education Credits</h2>
+<ul>
+    <li>The Center for Domestic Preparedness is authorized by IACET to offer 2.4 CEUs for this program.</li>
+    <li>Police Officer Standards and Training (POST; approved per state): 24</li>
+</ul>
+</div>
+</div>

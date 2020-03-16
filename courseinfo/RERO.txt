@@ -1,0 +1,37 @@
+<!--COURSE TITLE--><h1><center>Radiological Emergency Response Operations (RERO)</center></h1>
+<!--course media<div class="leftin"><img class="outside" src="http://localhost/media/ht01.jpg"></div>
+<div class="rightin"><img class="outside" src="http://localhost/media/ht02.jpg"></div>
+<center><video width="600" controls autoplay>
+  <source src="http://localhost/media/ht.mp4" type="video/mp4">
+  <source src="http://localhost/media/ht.mp4" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video></center>
+END OF COURSE MEDIA
+<div class="photos"-->
+<!--COURSE INFO-->
+<h2>Overview</h2>
+<p>Radiological Emergency Response Operations is a five-day course includes lectures, hands-on training, and team exercises. Students learn the concepts, equipment, and procedures related to radiological incident response, including a commercial nuclear power facility. During the course, the responders work in teams to perform radiological emergency response operations in a realistic exercise environment. The course culminates with an exercise that implements the Incident Command system in response to an incident that requires team coordination. The course adheres to Federal Emergency Management Agency Radiological Emergency Preparedness Program, the Environmental Protection Agency Manual or Protective Action Guides and Protective Actions for Nuclear Incidents and Federal regulations.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+	<li>Identify administrative components required for employers to establish a respiratory protection program in accordance with  1910.134(c).</li>
+	<li>Apply applicable  1910.120 standards during an emergency response.</li>
+	<li>Identify the requirements for personal protective equipment in accordance with  1910.132.</li>
+	<li>Employ multiple technologies to conduct qualitative and quantitative fit testing in accordance with  1910.134.</li>
+</ul>
+<p>This course provides emergency responders with the unique opportunity to practice their knowledge and skills in the Nation’s only toxic chemical-agent training facility dedicated solely to emergency responders, the Chemical, Ordnance, Biological, and Radiological (COBRA) Training Facility.</p>
+<h2>Prerequisites and Requirements</h2>
+<p>To be eligible for the course, the student must successfully complete the following courses:</p>
+<ul>
+	<li>AWR-160, WMD/Terrorism Awareness for Emergency Responders;</li>
+	<li>IS-100.b, Introduction to the Incident Command System, IS-100, or any of the available ICS-100; and</li>
+	<li>IS-700.a, National Incident Management System (NIMS), An Introduction, IS-700.</li>
+</ul>
+<p>This course is open to individuals who perform any aspect of the employer-designated respiratory protection program.</p>
+<h2>Course Length</h2>
+<p>2.5 days</p>
+<h2>Continuing Education Credits</h2>
+<p>The Center for Domestic Preparedness is authorized by IACET to offer 2.4 CEUs for this program.</p>
+<p>Nursing, through Alabama Board of Nursing (nurses only): 24</p>
+<p>Police Officer Standards and Training (POST), if approved by the student’s state: 24</p>
+</div>
+</div>

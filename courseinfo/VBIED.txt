@@ -1,0 +1,38 @@
+<!--COURSE TITLE--><h1><center>Vehicle-Borne Improvised Explosive Device Detection (VBIED)</center></h1>
+<!--course media<div class="leftin"><img class="outside" src="http://localhost/media/ht01.jpg"></div>
+<div class="rightin"><img class="outside" src="http://localhost/media/ht02.jpg"></div>
+<center><video width="600" controls autoplay>
+  <source src="http://localhost/media/ht.mp4" type="video/mp4">
+  <source src="http://localhost/media/ht.mp4" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video></center>
+END OF COURSE MEDIA
+<div class="photos"-->
+<!--COURSE INFO-->
+<h2>Overview</h2>
+<p>The Vehicle-Borne Improvised Explosive Device Detection (VBIED) course is a one-day course which provides response personnel with the knowledge and skills in the improvised-explosive device (IED) threat, identification of components and devices, methods for reacting to IEDs, and the procedures for inspecting vehicles to detect vehicle-borne IEDs. The course includes an overview of the vehicle-borne IED threat, fundamentals of IED and explosive effects, means for creation of homemade explosive devices, vehicle-borne IED clues, vehicle inspection-procedures, and a comprehensive exercise for inspecting vehicles and identifying vehicle-borne IED threats.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+<li>Identify the threat, tactics, methods of employment, historical and current threats in accordance with The Car Bomb.</li>
+<li>Identify explosive hazards and safety precautions for the first responder.</li>
+<li>Prevent, detect, protect against and respond to the illegal use of explosives.</li>
+<li>Inspect a vehicle in order to prevent, detect, identify and react to any found explosive threats, hazards or prohibited items.</li>
+</ul>
+<h2>Additional Requirements</h2>
+<p>To be eligible for the course, the student must successfully complete the following:</p>
+<ul>
+<li>AWR-160, WMD/Terrorism Awareness for Emergency Responders;</li>
+<li>IS-100.b, Introduction to the Incident Command System or any of the available ICS-100 series;</li>
+<li>IS-200.b, Incident Command System for Single Resources and Initial Action Incidents or any of the available ICS-200 series; and</li>
+<li>IS-914: Surveillance Awareness: What You Can Do.</li>
+<li>Be physically capable of completing all learning activities and exercises.</li>
+</ul>
+<h2>Course Length</h2>
+<p>1.0 days</p>
+<h2>Continuing Education Credits</h2>
+<ul>
+<li>The Center for Domestic Preparedness is authorized by IACET to offer .8 CEUs for this program.</li>
+<li>Police Officer Standards and Training (POST); if approved by the student's state: .8</li>
+</ul>
+</div>
+</div>

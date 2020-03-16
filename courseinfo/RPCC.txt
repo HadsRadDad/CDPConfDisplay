@@ -1,0 +1,37 @@
+<!--COURSE TITLE--><h1><center>REP Plan Core Concepts (RPCC)</center></h1>
+<!--course media<div class="leftin"><img class="outside" src="http://localhost/media/ht01.jpg"></div>
+<div class="rightin"><img class="outside" src="http://localhost/media/ht02.jpg"></div>
+<center><video width="600" controls autoplay>
+  <source src="http://localhost/media/ht.mp4" type="video/mp4">
+  <source src="http://localhost/media/ht.mp4" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video></center>
+END OF COURSE MEDIA
+<div class="photos"-->
+<!--COURSE INFO-->
+<h2>Overview</h2>
+<p>The REP Program Planning Core Concepts Course (RPCC) will assist Federal, State, tribal and local emergency managers more effectively meet the planning challenges presented to the emergency responder community during a radiological incident at a NRC-licensed commercial nuclear power plant (NPP).<p>
+<p>The awareness-level, 0.5 day course will focus on and be limited to the current REP planning methodology. This methodology goes beyond the planning guidance provided in CPG-101 and incorporates the unique planning aspects of FEMA’s REP Program. The instructional delivery is designed to create a collaborative training environment supporting discussions focused on the vertical and horizontal integration of emergency operation plans and implementation procedures between neighboring OROs and governmental authorities, providing best-practices and lessons-learned solutions to emergency planning.</p>
+<p>At the completion of the course, the student shall be able to:</p>
+<ul>
+	<li>Describe the planning evaluation criteria found in NUREG-0654/FEMA-REP-1, Rev. 1 and the FEMA approved approaches for meeting the intent of the planning standards.</li>
+	<li>Assess their Offsite Response Organization’s (OROs) Radiological Emergency Response Plan and implementation procedures ensuring that it meets the intent of the NUREG- 0654/FEMA-REP-1, Rev. 1 Planning Standards and Evaluation Criteria, using the REP Program Manual as the reference document.</li>
+	<li>Assess the anticipated effectiveness of the emergency response plan section and applicable implementation procedures in meeting the demonstration criteria used during a REP Program exercise.</li>
+	<li>Propose revisions to their Offsite Response Organization’s (OROs) Radiological Emergency Response Plan and implementation procedures, meeting the intent of the NUREG- 0654/FEMA-REP-1, Rev. 1 planning standard evaluation criterion using effective methodologies for plan review.</li>
+	<li>Describe the importance of the "Annual Letter of Certification (ALC)" review guide in assisting State and FEMA Regional personnel with development, submission, and review of the ALC and development of public education and information materials.</li>
+</ul>
+<h2>Prerequisites and Requirements</h2>
+<p>To be eligible for the course, a candidate must successfully complete the following:</p>
+<ul>
+	<li>IS-003, an independent study course containing information on a variety of radiological topics, including: fundamental principles of radiation, nuclear threat and protective measures, nuclear power plants, radiological transportation accidents, other radiological hazards.</li>
+	<li>AWR-317 REP Core Concepts Course (RCCC), which provides an overview of the NRC-licensed NPP off-site radiological emergency preparedness program. Addresses the REP Program history and seminal events, federal regulatory policies, basic radiation principles, REP planning guidance (planning standards), REP demonstration guidance (exercise evaluation areas) and the REP Disaster Initiated Review (DIR) process.</li>
+</ul>
+<h2>Course Length</h2>
+<p>0.5 days</p>
+<h2>Continuing Education Credits</h2>
+<ul>
+<li>The Center for Domestic Preparedness is authorized by IACET to offer 0.4 CEUs for this program.</li>
+<p>Exceptions to any of the above prerequisites may be granted on a case-by-case basis at the discretion of the CDP/OBP Registrar.</p>
+</ul>
+</div>
+</div>

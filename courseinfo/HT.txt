@@ -1,0 +1,44 @@
+<!--COURSE TITLE--><h1><center>Hazardous Materials Technician for CBRNE Incidents (HT)</center></h1>
+<!--course media--><div class="leftin"><img class="outside" src="http://localhost/media/ht01.jpg"></div>
+<div class="rightin"><img class="outside" src="http://localhost/media/ht02.jpg"></div>
+<center><video width="600" controls autoplay>
+  <source src="http://localhost/media/ht.mp4" type="video/mp4">
+  <source src="http://localhost/media/ht.mp4" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video></center>
+<!--END OF COURSE MEDIA-->
+<div class="photos">
+<!--COURSE INFO-->
+<h2>Overview</h2>
+<p>Hazardous Materials Technologies: Sampling, Monitoring, and Detection is a demanding five-day course that challenges the hazardous materials (HAZMAT) technician with an extensive hands-on training experience. The technician will demonstrate learned skills in response actions to a chemical, biological, radiological, nuclear or explosive (CBRNE) weapons of mass destruction incident in both the Center's outdoor Northville training complex and the Nation's only toxic chemical-agent training facility dedicated solely to emergency responders, the Chemical, Ordnance, Biological, and Radiological (COBRA) Training Facility.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+<li>Select chemical sampling technology.</li>
+<li>Select biological sampling technology.</li>
+<li>Select radiological monitoring technology.</li>
+<li>Perform hazardous materials operations in various levels of personal protective equipment.</li>
+<li>Perform bulk and swab sample collections.</li>
+</ul>
+<h2>Prerequisites and Requirements</h2>
+<p>To be eligible for the course, the student must successfully complete the following courses:</p>
+<ul>
+<li>IS-100.b, Introduction to the Incident Command System or any of the available ICS-100 series;</li>
+<li>IS-200.b, ICS for Single Resources and Initial Action Incidents or any of the available ICS-200 series;</li>
+<li>IS-700.b, National Incident Management System, An Introduction; and</li>
+<li>IS-800.c, An Introduction to the National Response Framework</li>
+</ul>
+<p>The student should also</p>
+<ul>
+<li>Currently serve as a hazardous materials technician.</li>
+<li>Have received HAZMAT training that meets or exceeds the requirements for technician-level training as outlined in OSHA 29 C.F.R. 1910.120(q)(6)(iii).</li>
+<li>Be physically and mentally capable of completing all course learning activities.</li>
+</ul>
+<h2>Course Length</h2>
+<p>5.0 days</p>
+<h2>Continuing Education Credits</h2>
+<ul>
+<li>The Center for Domestic Preparedness is authorized by IACET to offer 4.0 CEUs for this program.</li>
+<li>Police Officer Standards and Training (POST; approved per state): 40</li>
+</ul>
+</div>
+</div>

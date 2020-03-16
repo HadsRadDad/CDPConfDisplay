@@ -1,0 +1,53 @@
+<!--COURSE TITLE--><h1><center>Hazardous Materials Technician (HMT)</center></h1>
+
+<!--course media--><div class="leftin"><img class="outside" src="http://localhost/media/erhm01.jpg"></div>
+    <div class="rightin"><img class="outside" src="http://localhost/media/erhm02.jpg"></div>
+    <div class="middlein"><img class="middle" src="http://localhost/media/erhm03.jpg"></div>
+<!--END OF COURSE MEDIA-->
+
+<!--COURSE INFO-->
+<div class="photos">
+<h2>Overview</h2>
+<p>ERHM a five-day course, provides training based on Occupational Safety and Health Administration standards for HAZMAT training. This 40-hour course provides participants with HAZMAT-specific response knowledge and skills, enabling them to respond safely and effectively to a suspected incident at a hazardous materials technician level. Participants receive hands-on training in donning personal protective equipment (PPE) Levels A and B, containing leaks and drum over packing, containing leaks in pressurized containers, and performing technical and mass decontamination. The ERHM course culminates with performance of these offensive-level tasks in an activity in which the participants apply the knowledge and skills learned in a simulated HAZMAT environment. ERHM graduates have the opportunity to take the National Board on Fire Service Professional Qualifications (Pro Board) and the International Fire Service Accreditation Congress (IFSAC) exam for HAZMAT Technician certification through the Alabama Fire College (AFC).</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+    <li>Plan a response to a hazardous materials incident</li>
+    <li>Identify hazardous material container damage</li>
+    <li>Identify hazardous materials</li>
+    <li>Estimate size of an endangered area</li>
+    <li>Terminate the incident</li>
+    <li>Perform decontamination operations</li>
+    <li>Don and doff personal protective equipment level A</li>
+    <li>Don and doff personal protective equipment level B</li>
+    <li>Contain a leak in a 55-gallon drum</li>
+    <li>Contain a leak in a pressurized container</li>
+    <li>Contain a leak in a MC 306/DOT 406 Dome Cover</li>
+</ul>
+<h2>Certificates</h2>
+<p>The AFC and Personnel Standards & Education Commission is accredited by both the National Board on Fire Service Professional Qualifications (Pro Board) and the IFSAC. Test administration occurs at the CDP immediately following the conclusion of the ERHM course. As a prerequisite for Pro-Board and IFSAC accreditation, each participant who elects to take the test must provide with the training application documented proof of NFPA 472 Hazardous Materials Awareness & Operations training and complete the below course requirements.</p>
+<ul>
+<li>Pass the CDP ERHM course.</li>
+<li>Pass the skills evaluations conducted as part of the ERHM course.</li>
+<li>Pass the AFC's 100-question test at the end of the ERHM course.</li>
+<li>Contact AFC's Registration Office, pay the $30 fee, and request release of your final score.</li>
+</ul>
+<h2>Course Length</h2>
+<p>5.0 days</p>
+<h2>Additional Requirements</h2>
+<p>To be eligible for the course, the student must successfully complete the following courses:</p>
+<ul>
+<li>AWR160, Standardized Awareness Training;</li>
+<li>IS-100.b, Introduction to the Incident Command System or any of the available ICS-100 series;</li>
+<li>IS-200.b, ICS for Single Resources and Initial Action Incidents or any of the available ICS-200 series;</li>
+<li>IS-700.a, National Incident Management System (NIMS), An Introduction;</li>
+<li>Training equivalent to HAZWOPER, 29 C.F.R. 1910.120 (q)(6)(i) (2010) First Responder Awareness Level or NFPA 472, Chapter 4 Competencies for Awareness Level Personnel (NFPA, 2007; 2008 edition); and</li>
+<li>Training equivalent to HAZWOPER, 29 C.F.R. 1910.120 (q)(6)(ii) (2010) First Responder Operations Level or NFPA 472, Chapter 5 Core Competencies for Operations Level Responders (NFPA, 2007; 2008 edition).</li>
+<li>Participants who attend this course must also be physically able to lift 50 pounds or more, be able to operate effectively in PPE, and have no limiting physical condition that would affect the wearing of a self-contained breathing apparatus (SCBA).</li>
+</ul>
+<h2>Continuing Education Credits</h2>
+<ul>
+<li>The Center for Domestic Preparedness is authorized by IACET to offer 4.0 CEUs for this program</li>
+<li>Police Officer Standards and Training (POST), if approved by the student&#39;s state: 40</li>
+</ul>
+</div>
+</div>

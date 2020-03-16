@@ -1,0 +1,33 @@
+<!--COURSE TITLE--><h1><center>Law Enforcement Protective Measures for CBRNE Incidents (LEPM)</center></h1>
+
+<h2>Overview</h2>
+<p>Through the one-day Law Enforcement Protective Measures for CBRNE Incidents (LEPM) course, law enforcement responders receive instruction in the current terrorist and extremist threat, apply community-based policing principles to the identification and prevention of terrorism and extremism, develop knowledge in the critical law enforcement skills required to respond to and operate safely in a chemical, biological, radiological, nuclear, or explosive (CBRNE) incident environment. The course culminates in a series of hands-on activities that allow responders to practices all of the learned skills (employing weapons, retaining weapons, and apprehending suspects while wearing personal protective equipment [PPE]; preserving hazardous evidence; moving and communicating tactically while wearing PPE; conducting sampling of hazardous materials, etc.) in a realistic context. </p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+    <li>Don and doff PPE Level C.</li>
+    <li>Assume initial command of a CBRNE incident.</li>
+    <li>Handle a weapon.</li>
+    <li>Perform weapon retention techniques.</li>
+    <li>Apply restraint devices.</li>
+    <li>Preserve hazardous evidence.</li>
+    <li>Process through technical decontamination.</li>
+    <li>Assess terrorist and extremist actions.</li>
+</ul>
+<h2>Course Length</h2>
+<p>1.0 days</p>
+<h2>Additional Requirements</h2>
+<p>To be eligible for the course, the student must successfully complete</p>
+<ul>
+<li>AWR-160, Terroism Awareness for Emergency Responders;</li>
+<li>IS-100.b, Introduction to the Incident Command System or any of the available ICS-100 series;</li>
+<li>IS-200.b, ICS for Single Resources and Initial Action Incidents or any of the available ICS-200 series;</li>
+<li>IS-700.b, National Incident Management System (NIMS), An Introduction; and</li>
+<li>IS-800.c, National Response Framework (NRF), An Introduction.</li>
+<li>Students must also be physically capable of completing all learning activities and exercises which include the ability to function in PPE and stand for long periods and the ability to move tactically as a member of a security or clearing team.</li>
+<li>LEPM is designed for emergency responders currently working in law enforcement.</li>
+<h2>Continuing Education Credits</h2>
+<ul>
+<li>The Center for Domestic Preparedness is authorized by IACET to offer 0.8 CEUs for this program.</li>
+<li>Police Officer Standards and Training (POST), if approved by the student’s state: 8</li>
+</ul>
+</div>

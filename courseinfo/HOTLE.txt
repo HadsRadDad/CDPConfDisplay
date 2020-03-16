@@ -1,0 +1,42 @@
+<!--COURSE TITLE--><h1><center>Intermediate Hands-On Training for CBRNE Incidents: Law Enforcement (HOT-LE)</center></h1>
+<!--course media<div class="leftin"><img class="outside" src="http://localhost/media/ht01.jpg"></div>
+<div class="rightin"><img class="outside" src="http://localhost/media/ht02.jpg"></div>
+<center><video width="600" controls autoplay>
+  <source src="http://localhost/media/ht.mp4" type="video/mp4">
+  <source src="http://localhost/media/ht.mp4" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video></center>
+END OF COURSE MEDIA
+<div class="photos"-->
+<!--COURSE INFO-->
+<h2>Overview</h2>
+<p>The Intermediate Hands-On Training for CBRNE Incidents: Law Enforcement (HOT-LE) is a one-day course designed to give law enforcement officers confidence while operating in personal protective equipment and to provide complex practice in the skills and abilities necessary to identify and safely respond to CBRNE incidents.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+<li>Identify chemical, biological, and explosive hazards.</li>
+<li>Don and doff personal protective equipment.</li>
+<li>Assume initial command of a CBRNE incident.</li>
+<li>Preserve evidence.</li>
+<li>Process through technical decontamination.</li>
+</ul>
+<h2>Prerequisites and Requirements</h2>
+<p>To be eligible for the course, the student must successfully complete the following courses:</p>
+<ul>
+<li>AWR-160, WMD/Terrorism Awareness for Emergency Responders;</li>
+<li>IS-100.b, Introduction to the Incident Command System or any of the available ICS-100 series;</li>
+<li>IS-200.b, ICS for Single Resources and Initial Action Incidents or any of the available ICS-200 series;</li>
+<li>IS-700.a, National Incident Management System, An Introduction;</li>
+<li>IS-800.b, An Introduction to the National Response Framework; and</li>
+<li>PER-264, Law Enforcement Protective Measures for CBRNE Incidents.</li>
+<li>Be physically capable of completing all learning activities and exercises, including the ability to operate in personal protective equipment; move tactically as a member of a law enforcement team; clear rooms; apprehend a suspect; and extricate a victim or suspect from a building or room.</li>
+</ul>
+<p><i>Exceptions to any of the above prerequisites may be granted on a case-by-case basis at the discretion of the CDP Registrar.</i></p>
+<h2>Course Length</h2>
+<p>1.0 days</p>
+<h2>Continuing Education Credits</h2>
+<ul>
+<li>The Center for Domestic Preparedness is authorized by IACET to offer 0.8 CEUs for this program.</li>
+<li>Police Officer Standards and Training (POST); approved per state): 8</li>
+</ul>
+</div>
+</div>

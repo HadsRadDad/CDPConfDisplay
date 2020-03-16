@@ -1,0 +1,32 @@
+<!--COURSE TITLE--><h1><center>Field Force Operations (FFO)</center></h1>
+<!--course media--><div class="leftin"><img class="outside" src="http://192.168.0.5/media/ffo01.jpg"></div>
+    <div class="rightin"><img class="outside" src="http://192.168.0.5/media/ffo02.jpg"></div>
+    <div class="middlein"><img class="middle" src="http://192.168.0.5/media/ffo03.jpg"></div>
+<!--END OF COURSE MEDIA-->
+<div class="photos">
+<!--COURSE INFO-->
+<h2>Overview</h2>
+<p>The three-day Field Force Operations course provides state and local law enforcement personnel with the knowledge and skills necessary to manage and control crowds and demonstrations. Responders learn critical-thinking and intuitive decision-making skills that support safe and responsive action in regaining order. Responders receive instruction in protest types and actions, legal considerations, responsibilities of mobile field force teams, and crowd-control methods. The course culminates in a series of hands-on activities that allow responders to practice all of the learned skills (baton-holding positions, mass-arrest procedures, and riot-control formations) in a realistic context.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+    <li>Identify considerations of a protest situation.</li>
+    <li>Use equipment to control crowds.</li>
+    <li>Execute positions in crowd-control squad formations.</li>
+    <li>Position yourself within a mass-arrest team to apprehend, search, and detain a subject.</li>
+</ul>
+<h2>Prerequisites and Requirements</h2>
+<p>To be eligible for the course, the student must successfully complete the following courses:</p>
+<ul>
+<li>AWR-160, WMD/Terrorism Awareness for Emergency Responders;</li>
+<li>IS-100.b, Introduction to the Incident Command System or any of the available ICS-100 series; and</li>
+<li>IS-700.a, National Incident Management System (NIMS), An Introduction.</li>
+</ul>
+<p>Students must be physically capable of standing for long periods; walking and marching for long periods; employing a baton in the performance of crowd-control actions; and performing lifts and carries required in the performance of mass-arrest carries.</p>
+<p><i>Exceptions to any of the above prerequisites may be granted on a case-by-case basis at the discretion of the CDP Registrar.</i></p>
+<h2>Course Length</h2>
+<p>3.0 days</p>
+<h2>Continuing Education Credits</h2>
+<ul>
+<p>The Center for Domestic Preparedness is authorized by the International Association for Continuing Education and Training (IACET) to offer 2.4 continuing education units for this program.</p>
+<p>Police Officer Standards and Training (POST), if approved by the student's state: 24</p>
+</div>

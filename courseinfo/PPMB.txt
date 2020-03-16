@@ -1,0 +1,32 @@
+<!--COURSE TITLE--><h1><center>Personal Protective Measures for Biological Events (PPMB)</center></h1>
+<!--course media<div class="leftin"><img class="outside" src="http://localhost/media/ht01.jpg"></div>
+<div class="rightin"><img class="outside" src="http://localhost/media/ht02.jpg"></div>
+<center><video width="600" controls autoplay>
+  <source src="http://localhost/media/ht.mp4" type="video/mp4">
+  <source src="http://localhost/media/ht.mp4" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video></center>
+END OF COURSE MEDIA
+<div class="photos"-->
+<!--COURSE INFO-->
+<h2>Overview</h2>
+<p>Personal Protective Measures for Biological Events (PPMB) is a one-day course focusing on the challenges faced by first responders and clinical health care professionals in pre-hospital and hospital environments as they deal with personal protective equipment (PPE) needs and potential contamination issues while dealing with highly infectious diseases. The course provides students with an overview of PPE, and includes experiential learning activities on donning and doffing PPE Level C and technical decontamination. Additionally, students review the different types of decontamination. Topics covered in the course include hazards specific to infectious disease incidents in a healthcare setting; exposure control plans; best safe work practices and most current guidance from the Centers for Disease Control and Prevention and the World Health Organization; use and limitations of PPE; donning and doffing of appropriate levels of PPE, to include practice with PPE Level C; roles and responsibilities; and technical decontamination processes and procedures.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+<li>Identify general characteristics of viruses in accordance with the Centers for Disease Control and Prevention and the World Health Organization.</li>
+<li>Don and doff personal protective equipment in accordance with the Occupational Safety and Health Administration and the Centers for Disease Control and Prevention.</li>
+<li>Perform technical decontamination in accordance with the Occupational Safety and Health Administration.</li>
+</ul>
+<h2>Prerequisites and Requirements</h2>
+<p>To be eligible for the course, the student must successfully complete the following course:</p>
+<ul>
+<li>AWR-160, WMD/Terrorism Awareness for Emergency Responders</li>
+</ul>
+<h2>Course Length</h2>
+<p>1.0 days</p>
+<h2>Continuing Education Credits</h2>
+<ul>
+<li>The Center for Domestic Preparedness is authorized by IACET to offer 0.8 CEUs for this program.</li>
+</ul>
+</div>
+</div>

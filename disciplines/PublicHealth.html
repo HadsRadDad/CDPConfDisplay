@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="../coursestyle.css">
+
+</head>
+<body>
+<div class=home><a href="../index.html"><img class="home" src="homebutton.png"></a></div>
+
+<!-- DISCIPLINE Title--> <div class="top"><div class=fema><img class="fema" src="fema.png"></img></div>Public Health</div>
+
+<!--buttons-->
+<div class="left">
+<table class="class">
+<tr>
+<th>
+<button class="button" id="EHTER">Environmental Health Training in Emergency Response (EHTER) - Operations</button>
+</th>
+</tr>
+<tr>
+<th>
+<button class="button" id="HMA">Hazardous Materials Awareness (HMA)</button>
+</th>
+</tr>
+<tr>
+<th>
+<button class="button" id="HMBR">Hazardous Materials Basic Responder for Mass Casualty Incidents (HMBR)</button>
+</th>
+</tr>
+<tr>
+<th>
+<button class="button" id="MPI">Managing Public Information for All Hazards Incidents (MPI)</button>
+</th>
+</tr>
+<tr>
+<th>
+<button class="button" id="RERO">Radiological Emergency Response Operations (RERO)</button>
+</th>
+</tr>
+<tr>
+<th>
+<button class="button" id="SNS">Strategic National Stockpile Preparedness Course (SNS)</button>
+</th>
+</tr>
+</table>
+</div>
+<!--End of buttons-->
+
+<!--COURSE INFO-->
+<div class="right" id="classinfo">
+
+</div>
+
+<script src="../jquery-3.2.0.js"></script>
+<script>
+    $(function(){
+        $('#classinfo').load('http://localhost/courseinfo/EHTER.txt');
+    });
+</script>
+
+<script>
+    $(document).ready(function(){
+        $('button').each(function(index, value) {
+            $(`#${this.id}`).click(function(){
+                $('#classinfo').load(`../courseinfo/${this.id}.txt`);
+            });
+        });
+    });
+    </script>
+
+</body>
+
+</html>

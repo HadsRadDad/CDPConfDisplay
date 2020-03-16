@@ -1,0 +1,35 @@
+<!--COURSE TITLE--><h1><center>Respiratory Protection: Program Development and Administration (RP)</center></h1>
+<!--course media--><div class="leftin"><img class="outside" src="http://192.168.0.5/media/rp01.jpg"></div>
+<div class="rightin"><img class="outside" src="http://192.168.0.5/media/rp02.jpg"></div>
+<div class="middlein"><img class="middle" src="http://192.168.0.5/media/rp03.jpg"></div>
+<!--END OF COURSE MEDIA-->
+<div class="photos">
+<!--COURSE INFO-->
+<h2>Overview</h2>
+<p>The Respiratory Protection: Program Development and Administration three-day course provides essential information and the skills required to develop, implement, administer, and properly sustain a respiratory protection program that fully complies with the laws and regulations regarding emergency response actions.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+    <li>Identify administrative components required for employers to establish a respiratory protection program in accordance with § 1910.134(c).</li>
+    <li>Apply applicable § 1910.120 standards during an emergency response.</li>
+    <li>Identify the requirements for personal protective equipment in accordance with § 1910.132.</li>
+    <li>Employ multiple technologies to conduct qualitative and quantitative fit testing in accordance with § 1910.134.</li>
+</ul>
+<p>This course provides emergency responders with the unique opportunity to practice their knowledge and skills in the Nation’s only toxic chemical-agent training facility dedicated solely to emergency responders, the Chemical, Ordnance, Biological, and Radiological (COBRA) Training Facility.</p>
+<h2>Prerequisites and Requirements</h2>
+<p>To be eligible for the course, the student must successfully complete the following courses:</p>
+<ul>
+	<li>AWR-160, WMD/Terrorism Awareness for Emergency Responders;</li>
+	<li>IS-100.b, Introduction to the Incident Command System or any of the available ICS-100; and</li>
+	<li>IS-700.a, National Incident Management System (NIMS), An Introduction.</li>
+</ul>
+<p>This course is open to individuals who perform any aspect of the employer-designated respiratory protection program.</p>
+<h2>Course Length</h2>
+<p>3.0 days</p>
+<h2>Continuing Education Credits</h2>
+<ul>
+	<li>The Center for Domestic Preparedness is authorized by IACET to offer 2.4 CEUs for this program.</li>
+	<li>Nursing, through Alabama Board of Nursing (nurses only): 24</li>
+	<li>Police Officer Standards and Training (POST; approved per state): 24</li>
+</ul>
+</div>
+</div>

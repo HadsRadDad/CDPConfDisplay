@@ -1,0 +1,42 @@
+<h1><center>Technical Emergency Response Training for CBRNE Incidents (TERT)</center></h1>
+<div class="leftin"><img class="outside" src="http://localhost/media/tert01.jpg"></div>
+<div class="rightin"><img class="outside" src="http://localhost/media/tert02.jpg"></div>
+<center><video width="600" controls autoplay>
+  <source src="http://localhost/media/tert.mp4" type="video/mp4">
+  <source src="http://localhost/media/tert.mp4" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video></center>
+<br>
+<h2>Overview</h2>
+<p>The Technical Emergency Response Training for CBRNE Incidents (TERT) course is a four-day training course, which provides responders with Chemical, Biological, Radiological, Nuclear, or Explosive (CBRNE) specific and all hazards response skills enabling them to respond safely to either event. This course presents information regarding immediate response actions associated with life safety, preservation of property, and restoration of an incident site, as well as information related to the identification of CBRNE hazards. The TERT course concludes with the performance of acquired skills and tasks in a toxic environment (chemical and biological materials) at the Chemical, Ordnance, Biological, and Radiological Training Facility (COBRATF).</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+    <li>Identify potential targets for a CBRNE attack.</li>
+    <li>Describe radiological sources/hazards used by terrorists.</li>
+    <li>Describe the threats associated with chemical weapons and the proper response to a chemical hazard incident.</li>
+    <li>Discuss the various aspects of biological agents when used as weapons.</li>
+    <li>Perform the necessary skills to support mass casualty triage and evacuation operations at a CBRNE/all-hazards mass casualty incident.</li>
+</ul>
+<h2>Course Length</h2>
+<p>4.0 days</p>
+<h2>Additional Requirements</h2>
+<p>To be eligible for the course, the student must successfully complete the following course:</p>
+<ul>
+	<li>AWR-160, WMD/Terrorism Awareness for Emergency Responders;</li>
+	<li>IS-100.b, Introduction to the Incident Command System or any of the available ICS-100 series;</li>
+	<li>IS-200.b, ICS for Single Resources and Initial Action Incidents or any of the available ICS-200 series;</li>
+	<li>IS-700.a, National Incident Management System (NIMS), An Introduction; and</li>
+	<li>IS-800.b, An Introduction to the National Response Framework.</li>
+</ul>	
+<h2>Continuing Education Credits</h2>
+<ul>
+	<li>The Center for Domestic Preparedness is authorized by IACET to offer 3.2 CEUs for this program.</li>
+	<li>Nursing, through Alabama Board of Nursing (nurses only): 32</li>
+	<li>Police Officer Standards and Training (POST; approved per state): 32</li>
+	<li>CA Environmental Health Specialist, through National Environmental Health Association (environmental health professionals): 32</li>
+</ul>	
+<br>
+<br>
+
+</div>
+</div>

@@ -1,0 +1,33 @@
+<h1><center>Crime Scene Management for Chemical, Biological, Radiological, Nuclear, or Explosive Incidents (CSM)</center></h1>
+
+<h2>Overview</h2>
+<p>The Environmental Health Training in Emergency Response Operations (EHTER Ops) is a four-day course which provides participants with the operations-level knowledge and skills needed to respond to incidents of natural- or human-caused disaster and to use appropriate protocols and equipment to achieve mission objectives. Participants are trained to assess problems and risks, plan for a team response, select equipment and instrumentation appropriate to the event, perform the required tasks according to the Environmental Health response protocol, and perform reporting and follow-up as instructed. The majority of the course is conducted through hands-on operational practice or response to simulated events. Participants perform Environmental Health Responder tasks while wearing personal protective equipment (PPE) Levels C and D. The course also includes training at the outdoor Northville Training Complex, part of the Chemical, Ordnance, Biological, and Radiological (COBRA) Training Facility, where participants engage in scenario-based exercises in which they employ critical-thinking skills related to the selection and use of chemical, biological, radiological, nuclear, and explosive (CBRNE) detection and sampling instruments.</p>
+<ul>
+    <li>Prepare as a team to respond to suspected water supply contamination in a potentially hazardous environment.</li>
+    <li>Determine remediation options for chemical and bacterial water supply contamination.</li>
+    <li>Calculate health and safety requirements for the displaced population and estimated length of stay using the CDC Environmental Health Assessment Form for Shelters.</li>
+	<li>Recommend equipment and upgrades needed to create a healthy and safe environment for proposed shelter population.</li>
+	<li>Assess food sources for emergency mass-feeding operations and food handling of providers. Identify potential for, address, and report on foodborne illness.</li>
+	<li>Identify non-structural building-related safety and health hazards. Communicate complex environmental health and safety information to non-technical audiences including media and members of the public.</li>
+</ul>
+<h2>Course Length</h2>
+<p>4.0 days</p>
+<h2>Additional Requirements</h2>
+<p>To be eligible for the course, the student must successfully complete the following courses:</p>
+<ul>
+    <li>AWR-160, WMD/Terrorism Awareness for Emergency Responders;</li>
+    <li>IS-100.b, Introduction to the Incident Command System or any of the available ICS-100 series;</li>
+    <li>IS-200.b, ICS for Single Resources and Initial Action Incidents or any of the available ICS-200 series;</li>
+    <li>IS-700.a, National Incident Management System (NIMS), An Introduction;</li>
+	<li>IS-800.b, National Response Framework, An Introduction; and</li>
+	<li>Environmental Health Training in Emergency Response (EHTER) Awareness-level course is available on the National Environmental Health Association e-Learning Website.</li>
+	<li>Students must be physically capable of standing and walking for prolonged periods while wearing PPE during this course.</li>
+</ul>
+<p>Exceptions to any of the above prerequisites may be granted on a case-by-case basis at the discretion of the CDP Registrar.</p>
+
+<h2>Continuing Education Credits</h2>
+<ul>
+<li>The Center for Domestic Preparedness is authorized by IACET to offer 0.8 CEUs for this program.</li>
+<li>Police Officer Standards and Training (POST; approved per state): 8</li>
+</ul>
+</div>

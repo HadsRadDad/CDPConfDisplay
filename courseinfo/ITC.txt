@@ -1,0 +1,33 @@
+<!--COURSE TITLE--><h1><center>Instructor Training Certification (ITC)</center></h1>
+<!--course media--><div class="leftin"><img class="outside" src="http://localhost/media/itc01.jpg"></div>
+    <div class="rightin"><img class="outside" src="http://localhost/media/itc02.jpg"></div>
+    <div class="middlein"><img class="middle" src="http://localhost/media/itc03.jpg"></div>
+<!--END OF COURSE MEDIA-->
+<div class="photos">
+<!--COURSE INFO-->
+<h2>Overview</h2>
+<p>Instructor Training Course (ITC) is a five-day course that prepares emergency responders to deliver lectures and hands-on training in their local jurisdictions. The course is conducted in two phases: fundamental principles and applied principles. During the fundamental principles phase participants receive an overview of adult learning, task analysis, risk and hazard analysis, learning objectives and lesson plans, communication skills, instructional delivery and multimedia, testing and evaluations, and after action reviews. Then, during the applied principles phase, participants put these lessons into practice through a series of practice training sessions.</p>
+<p>NOTE: This course does not qualify the individual as an instructor or trainer in any specific FEMA course.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+    <li>Demonstrate various teaching and delivery strategies and identify learning resources as applied to a chemical, biological, radiological, nuclear or explosive (CBRNE) training environment.</li>
+    <li>Discuss effective communication techniques for an adult-learning audience.</li>
+    <li>Demonstrate the ability to manage the learning environment effectively, considering the needs of a diverse audience.</li>
+	<li>Develop and deliver a 15-minute oral presentation to an adult audience.</li>
+	<li>Develop, deliver, and evaluate a 20-minute oral presentation to an adult audience.</li>
+</ul>
+
+<h2>Additional Requirements</h2>
+<p>To be eligible for the course, the student must successfully complete the following course:</p>
+<ul>
+<li>AWR-160, WMD/Terrorism Awareness for Emergency Responders.</li>
+</ul>
+<p>This course is designed for emergency responders who have not attended a qualified instructor training course and who will provide chemical, biological, radiological, nuclear, and explosive CBRNE training in their jurisdictions. To be eligible to attend ITC, a candidate must have successfully completed a CBRNE-training course conducted by the CDP or any other National Domestic Preparedness Consortium member.</p>
+<h2>Course Length</h2>
+<p>5.0 days</p>
+<h2>Continuing Education Credits</h2>
+<ul>
+<li>The Center for Domestic Preparedness is authorized by IACET to offer 4.0 CEUs for this program.</li>
+<li>Police Officer Standards and Training (POST; approved per state): 40</li>
+</div>
+</div>

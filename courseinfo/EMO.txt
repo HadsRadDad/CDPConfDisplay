@@ -1,0 +1,39 @@
+<!--COURSE TITLE--><h1><center>Emergency Medical Operations for CBRNE Incidents (EMO)</center></h1>
+<!--course media--><div class="leftin"><img class="outside" src="http://localhost/media/emo01.jpg"></div>
+<div class="rightin"><img class="outside" src="http://localhost/media/emo02.jpg"></div>
+<center><video width="600" controls autoplay>
+  <source src="../media/emo.mp4" type="video/mp4">
+  <source src="../media/emo.mp4" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video></center>
+<!--END OF COURSE MEDIA-->
+<div class="photos">
+<!--COURSE INFO-->
+<h2>Overview</h2>
+<p>The Emergency Medical Operations for CBRNE Incidents (EMO) is a four-day course that prepares responders to effectively respond to a chemical, biological, radiological, nuclear, or explosive (CBRNE) or mass casualty incident. The four-day EMO course provides classroom lectures, extensive hands-on training, and culminates with a hands-on practical exercise that allows responders to implement the emergency-response knowledge and skills learned during the course.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+    <li>Apply Incident Command System principles focusing on medical operations.</li>
+    <li>Identify the appropriate personal protection equipment levels when responding to a CBRNE incident or mass casualty incident.</li>
+    <li>Evaluate casualties using techniques such as Simple Triage and Rapid Treatment (START) and JumpSTART.</li>
+    <li>Provide casualty assistance and perform emergency medical operations while wearing personal protective equipment.</li>
+    <li>Process non-ambulatory, ambulatory, and special needs casualties through a decontamination corridor.</li>
+	<li>Conduct tracking and transport operations in support of casualty evacuation during a mass casualty incident.</li>
+</ul>
+<h2>Additional Requirements</h2>
+<p>To be eligible for the course, the student must successfully complete the following courses:</p>
+<ui>
+	<li>AWR-160, WMD/Terrorism Awareness for Emergency Responders;</li>
+	<li>IS-100.c, Introduction to Incident Command System for Healthcare/Hospitals or any of the available ICS-100 series;</li>
+	<li>IS-200.HCa, Applying ICS to Healthcare Organizations or any ICS-200 series; and</li>
+	<li>IS-700.b, National Incident Management System, An Introduction.</li>
+	<li>Participants must be able to lift 50 pounds, wear personal protective equipment, and meet the CDP medical criteria.</li>
+</ui>
+<h2>Course Length</h2>
+<p>4.0 days</p>
+<h2>Continuing Education Credits</h2>
+<p>The Center for Domestic Preparedness is authorized by IACET to offer 3.2 CEUs for this program.</p>
+<p>Nursing, through Alabama Board of Nursing (nurses only): 32</p>
+<p>Continuing Education Coordinating Board for Emergency Medical Services (Emergency Medical Technicians and paramedics only): 32</p>
+</div>
+</div>

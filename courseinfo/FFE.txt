@@ -1,0 +1,31 @@
+<!--COURSE TITLE--><h1><center>Field Force Extrication Tactics (FFE)</center></h1>
+<!--course media--><div class="leftin"><img class="outside" src="http://localhost/media/ffe01.jpg"></div>
+    <div class="rightin"><img class="outside" src="http://localhost/media/ffe02.jpg"></div>
+    <div class="middlein"><img class="middle" src="http://localhost/media/ffe03.jpg"></div>
+<!--END OF COURSE MEDIA-->
+<div class="photos">
+<h2>Overview</h2>
+<p>Field Force Extrication Tactics (FFE) is a three-day course that provides students with the knowledge and skills to operate the tools necessary to extricate individuals safely from protester devices while reducing liability and ensuring due process. Responders receive instruction in protest situations, legal considerations, responsibilities of extrication teams, and extrication techniques required to defeat protester devices. The course culminates in a series of hands-on activities that allow responders to practice the learned skills (operating extrication tools, defeating protester devices, and communicating with other students while operating power tools) in a realistic context.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+    <li>Identify considerations of a protest situation in accordance with analysis of current legal precedence and crowd control best practices.</li>
+    <li>Plan a response to a protester device situation in accordance with tactical objectives.</li>
+    <li>Defeat protester devices.</li>
+    <li>Operate the hand tools in accordance with the manufacturer's specifications.</li>
+</ul>
+<h2>Prerequisites and Requirements</h2>
+<ul>
+<li>To be eligible for the course, the student must successfully complete the following:</li>
+<li>AWR160, Standardized Awareness Training;</li>
+<li>IS-100.b, Introduction to the Incident Command System or any of the available ICS-100 series; and</li>
+<li>IS-700.a, National Incident Management System (NIMS), An Introduction.</li>
+<li>Students must be in good physical shape and be capable of lifting 60 pounds while bending at the knees and waist, and be capable of operating the following power tools while bending downward and forward at the waist: Extrication saw, Angle grinder, Reciprocating saw, Jackhammer, Rotary hammer, Rebar cutter, Rotary tool.</li>
+</ul>
+<h2>Course Length</h2>
+<p>3.0 days</p>
+<h2>Continuing Education Credits</h2>
+<ul>
+<li>The Center for Domestic Preparedness is authorized by IACET to offer 2.4 CEUs for this program.</li>
+<li>Police Officer Standards and Training (POST), if approved by the student's state: 24</li>
+</ul>
+</div>

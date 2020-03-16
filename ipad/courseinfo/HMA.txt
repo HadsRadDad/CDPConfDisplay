@@ -1,0 +1,27 @@
+<!--COURSE TITLE--><h1><center>Hazardous Materials Awareness (HMA)</center></h1>
+<!--course media--><div class="leftin"><img class="outside" src="http://192.168.0.5/media/tert01.jpg"></div>
+<div class="rightin"><img class="outside" src="http://192.168.0.5/media/tert02.jpg"></div>
+<center><video width="600" controls autoplay>
+  <source src="../media/tert.mp4" type="video/mp4">
+  <source src="../media/tert.mp4" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video></center>
+<!--END OF COURSE MEDIA-->
+<div class="photos">
+<!--COURSE INFO-->
+<h2>Overview</h2>
+<p>The Hazardous Materials Awareness course provides attendees from all backgrounds with knowledge and practical experience in essential, awareness-level hazardous materials competencies as defined by NFPA 472: Standard for Competence of Responders to Hazardous Materials/Weapons of Mass Destruction Incidents. The Hazardous Materials Awareness course provides students with training to proficiency in identifying hazardous materials; utilizing the U.S. Department of Transportation’s 2016 Emergency Response Guidebook (ERG) to identify hazardous materials risks and protective actions, utilizing hazard communication documents to identify hazardous materials risks and protective actions, and determining awareness-level personnel and public protective actions.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+    <li>Identify hazardous materials and weapons of mass destruction</li>
+    <li>Identify awareness-level personal and public protective actions</li>
+</ul>
+<h2>Prerequisites and Requirements</h2>
+<p>To be eligible to attend the course, a candidate must have a requirement or responsibility to possess awareness-level knowledge and skills in the identification of hazardous materials and weapons of mass destruction and the determination and communication of associated protective actions.</p>
+<h2>Continuing Education Credits</h2>
+<p>As an International Association for Continuing Education and Training (IACET) Authorized Provider, the Center for Domestic Preparedness awards .8 continuing education units for this program under the American National Standards Institute (ANSI)/IACET Standard.<p>
+<h2>Course Length</h2>
+<p>1.0 days</p>
+
+</div>
+</div>

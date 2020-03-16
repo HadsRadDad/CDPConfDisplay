@@ -1,0 +1,75 @@
+<html>
+<head>
+
+<link rel="stylesheet" type="text/css" href="../ipadcoursestyle.css">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+</head>
+<body>
+<div class=home><a href="../index.html"><img class="home" src="homebutton.png"></a></div>
+
+<!-- DISCIPLINE Title--> <div class="top"><div class=fema><img class="fema" src="fema.png"></img></div> Agricultural Safety</div>
+
+<!--buttons-->
+<div class="left">
+<table class="class">
+</th>
+</tr>
+<tr>
+<th>
+<button class="button" id="TERT">Technical Emergency Response Training for CBRNE Incidents (TERT)</button>
+</th>
+</tr>
+<tr>
+<th>
+<button class="button" id="RP">Respiratory Protection: Program Development and Administration (RP)</button>
+</th>
+</tr>
+<tr>
+<th>
+<button class="button" id="SNS">Division of Strategic National Stockpile (SNS)</button>
+</th>
+</tr>
+<tr>
+<th>
+<button class="button" id="IC">Incident Command: Capabilities, Planning and Response Actions for All Hazards (IC)</button>    
+</th>
+</tr>
+</table>
+</div>
+<!--End of buttons-->
+
+<!--COURSE INFO-->
+<div class="right" id="classinfo">
+
+</div>
+<script src="../jquery-3.2.0.js"></script>
+<script>
+    $(function(){
+        $('#classinfo').load('http://localhost/courseinfo/TERT.txt');
+    });
+</script>
+
+<script>
+$(document).ready(function(){
+    $("#TERT").click(function(){
+        $("#classinfo").load("http://localhost/courseinfo/TERT.txt");
+    });
+
+    $("#RP").click(function(){
+        $("#classinfo").load("http://localhost/courseinfo/RP.txt");
+    });
+
+	$("#SNS").click(function(){
+        $("#classinfo").load("http://localhost/courseinfo/SNS.txt");
+    });
+	
+	$("#IC").click(function(){
+        $("#classinfo").load("http://localhost/courseinfo/IC.txt");
+    });
+	
+});
+</script>
+</body>
+
+</html>

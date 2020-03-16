@@ -1,0 +1,269 @@
+<head>
+<link rel="icon" href="http://192.168.0.5/icon.png" type="image/png">
+<link rel="apple-touch-icon" sizes="256x256" href="icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<style>
+
+body{
+    margin: 0 auto;
+    overflow: hidden;
+    user-select: none; /* supported by Chrome and Opera */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Firefox */
+   -ms-user-select: none; /* Internet Explorer/Edge */
+   -webkit-touch-callout: none;
+}
+
+
+.main {
+    background-image: url("./ipadbg.png"), linear-gradient(to right, #ffffff 59%, #666699 190%);
+    background-image: url("./ipadbg.png"), -webkit-linear-gradient(to right, #ffffff 59%, #666699 190%);
+    background-blend-mode: hard-light;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    position: fixed;
+    user-select: none; /* supported by Chrome and Opera */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Firefox */
+   -ms-user-select: none; /* Internet Explorer/Edge */
+   -webkit-touch-callout: none;
+}
+
+div.vid {
+    position: absolute;
+    top:  50px;
+    left: 30px;
+    width: 45%;
+    margin: auto;
+	background-color: black;
+	cursor: none;
+}
+
+div.interface {
+    position: fixed;
+    top: 4vh;
+    left: 3vw;
+    height: 90%;
+    width: 55%;
+	text-shadow: 6px 6px 5px black;
+	cursor: none;
+}
+
+div.bottom {
+	position: fixed;
+	top: 85vh;
+	left: 15vw;
+	width: 70vw;
+	height: 10vh;
+	background-color: #2B3856;
+	border-radius: 25px;
+    box-shadow:17px 20px 5px -1px black;
+	text-align: center;
+	cursor: none;
+	border-style: solid;
+	border-color: red;
+}
+
+video {
+    box-shadow: 25px 28px 20px -1px black;
+	width: 101%;
+	border-style: solid;
+	border-width: 5px;
+	cursor: none;
+}
+
+
+
+img.picture {
+    position: relative;
+    top: 10px;
+    left: 30px;
+    width: 100px;
+    height: 100px;
+}
+
+div.textunder {
+  text-align: center;
+  font-family: Arial;
+  width: 160px;
+  height: auto;
+  font-size: 14px;
+  font-weight: bold;
+  text-shadow: 3px 3px 1px black;
+  position: relative;
+  top: 2px;
+  line-height: 14px;
+  cursor: none;
+}
+
+table {
+    position: relative;
+    left: 10px;
+	cursor: none;
+}
+
+td {
+    padding-left: 40px;
+	padding-bottom: 30px;
+}
+
+div.polaroid {
+    width: 160px;
+	height: 120px;
+    background-color: #2B3856;
+    box-shadow:17px 20px 5px -1px black;
+    border-radius: 15px;
+	font-family: Discipline;
+	text-align: center;
+	font-size: 55px;
+	padding-top: 30px;
+	line-height: 55px;
+	cursor: none;
+	border-style: solid;	
+	border-color: red;
+}
+
+div.polaroidA {
+    width: 160px;
+	height: 120px;
+    background-color: #2B3856;
+    box-shadow:17px 20px 5px -1px black;
+    border-radius: 15px;
+	font-family: Serif;
+	text-align: center;
+	font-size: 24.5px;
+	padding-top: 30px;
+	line-height: 30px;
+	cursor: none;
+	border-style: solid;	
+	border-color: red;
+}
+
+a {
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+	cursor: none;
+}
+
+a.bottom {
+	font-weight: bold;
+	text-decoration: none;
+	color: white;
+	font-size: 55px;
+	line-height: 200px;
+    text-shadow: 6px 6px 5px black;
+    cursor: none;
+}
+
+a.contact {
+	font-weight: bold;
+	text-decoration: none;
+	color: white;
+	font-size: 55px;
+	line-height: 10vh;
+    text-shadow: 6px 6px 5px black;
+	cursor: none;
+}
+
+@font-face {
+	font-family: Discipline;
+	src: url(Disciplines.otf);
+	font-weight: bold;
+}
+
+.polaroid:active {
+	 box-shadow: 8px 10px 2px -1px black
+}
+
+.bottom:active {
+	 box-shadow: 8px 10px 2px -1px black
+}
+
+a.other {
+	font-family: serif;
+	font-weight: bold;
+	text-decoration: none;
+	color: white;
+	font-size: 75px;
+    text-shadow: 6px 6px 5px black;
+	cursor: none;
+}
+
+a.other1 {
+	font-family: serif;
+	font-weight: bold;
+	text-decoration: none;
+	color: white;
+	font-size: 48px;
+    text-shadow: 6px 6px 5px black;
+	cursor: none;
+}
+
+</style>
+</head>
+<body>
+    <div class="main">
+<div class="interface" align="center">
+
+    <table>
+        <tr>
+            <td><a href="./disciplines/Law.html"><div class="polaroid">a<div class="textunder"><p>Law Enforcement</p></a></div></div></td>
+            <td><a href="./disciplines/Fire.html"><div class="polaroid">e<div class="textunder"><p>Fire Service</p></a></div></div></td>
+            <td><a href="./disciplines/Healthcare.html"><div class="polaroid">b<div class="textunder"><p>Healthcare</p></a></div></div></td>
+            <td><a href="./disciplines/EMS.html"><div class="polaroid">d<div class="textunder"><p>Emergency Medical Services</p></a></div></div></td>
+
+        </tr>
+        <tr>
+            <td><a href="./disciplines/EmergencyMan.html"><div class="polaroid">c<div class="textunder"><p>Emergency<br>Management</p></a></div></div></td>
+            <td><a href="./disciplines/PublicHealth.html"><div class="polaroid">f<div class="textunder"><p>Public Health</p></a></div></div></td>
+            <td><a href="./disciplines/GovAdmin.html"><div class="polaroid">l<div class="textunder"><p>Governmental Administrative</p></a></div></div></td>
+            <td><a href="./disciplines/Hazmat.html"><div class="polaroid">h<div class="textunder"><p>Hazardous Materials</p></a></div></div></td>
+
+        </tr>
+        <tr>
+            <td><a href="./disciplines/PublicCom.html"><div class="polaroid">j<div class="textunder"><p>Public Safety Communications</p></a></div></div></td>
+            <td><a href="./disciplines/Safety.html"><div class="polaroid">g<div class="textunder"><p>Security and Safety</p></a></div></div></td>
+            <td><a href="./disciplines/Education.html"><div class="polaroid">k<div class="textunder"><p>Education</p></a></div></div></td>
+            <td><a href="./disciplines/IT.html"><div class="polaroid">r<div class="textunder"><p>Information<br>Technology</p></a></div></div></td>
+
+        </tr>
+            
+        <tr>
+            <td><a href="./disciplines/Vol.html"><div class="polaroid">q<div class="textunder"><p>Citizen/Community Volunteer</p></a></div></div></td>
+            <td><a href="./disciplines/Trans.html"><div class="polaroid">p<div class="textunder"><p>Transportation</p></a></div></div></td>
+            <td><a href="./disciplines/Search.html"><div class="polaroid">o<div class="textunder"><p>Search and Rescue</p></a></div></div></td>
+            <td><a href="./disciplines/Agriculture.html"><div class="polaroid">n<div class="textunder"><p>Agricultural Safety</p></a></div></div></td>
+
+        </tr>
+        <tr>
+            <td><a href="./disciplines/PublicWorks.html"><div class="polaroid">i<div class="textunder"><p>Public Works</p></a></div></div></td>
+            <td><a class="other"href="./disciplines/Indirect.html"><div class="polaroidA">Indirect Training<br>Opportunities<div class-textunder"></div></div></td>
+			<td><a class="other"href="./disciplines/Other.html"><div class="polaroid">A-Z<div class="textunder"></a><a href="disciplines/Other.html"><p>Course List</p></a></div></div></td>
+
+        </tr>
+    </table>
+    </div>
+</div>
+<a href="HOT.html" class="contact"><div class="bottom"> CONTACT ME</div></a>
+</body>
+<script src="../jquery-3.2.0.js"></script>
+<script>
+var a=document.getElementsByTagName("a");
+for(var i=0;i<a.length;i++) {
+    if(!a[i].onclick && a[i].getAttribute("target") != "_blank") {
+        a[i].onclick=function() {
+                window.location=this.getAttribute("href");
+                return false; 
+        }
+    }
+}
+</script>

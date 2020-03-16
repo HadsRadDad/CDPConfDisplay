@@ -1,0 +1,36 @@
+<!--COURSE TITLE--><h1><center>Standardized Awareness Training Program (SAT)</center></h1>
+<!--course media<div class="leftin"><img class="outside" src="http://192.168.0.5/media/ht01.jpg"></div>
+<div class="rightin"><img class="outside" src="http://192.168.0.5/media/ht02.jpg"></div>
+<center><video width="600" controls autoplay>
+  <source src="http://192.168.0.5/media/ht.mp4" type="video/mp4">
+  <source src="http://192.168.0.5/media/ht.mp4" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video></center>
+END OF COURSE MEDIA
+<div class="photos"-->
+<!--COURSE INFO-->
+<h2>Overview</h2>
+<p>The Standardized Awareness Training Program (SAT) is a one-day course that supports the parallel course, the Standardized Awareness Authorized Training, Train-the Trainer (SAAT) course, the purpose of which is to provide supervisors and trainers with the information and skills required to instruct the SAT course at their local jurisdictions. The course covers the knowledge of essential course material on chemical, biological, radiological, nuclear, and explosive (CBRNE) hazards and materials, prevention and deterrence methods, and the Emergency Response Guidebook (ERG) in order to make decisions at the awareness level.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+	<li>Identify terms and concepts that are applicable to the prevention and deterrence of terrorist and CBRNE incidents.</li>
+	<li>Identify hazardous materials, hazard classes, and response information using the Emergency Response Guidebook.</li>
+	<li>Discuss selected chemical and biological agents, including the physiological signs and symptoms of exposure, potential sources, indicators of an attack, and physical characteristics.</li>
+	<li>Discuss radiation and radiological materials.</li>
+	<li>Discuss explosives, including the characteristics and the effects of a detonated explosive device.</li>
+</ul>
+<h2>Additional Requirements</h2>
+<p>To be eligible for the course, the student must successfully complete the following courses:</p>
+<ul>
+	<li>IS-100.b, Introduction to Incident Command System; and</li>
+	<li>IS-700.a, National Incident Management System, An Introduction, IS-700</li>
+</ul>
+<h2>Course Length</h2>
+<p>1.0 days</p>
+<h2>Continuing Education Credits</h2>
+<ul>
+<li>The Center for Domestic Preparedness is authorized by IACET to offer 0.8 continuing education units for this program.</li>
+<li>Nursing through the Alabama Board of Nursing (nurses only): 8</li>
+</ul>
+</div>
+</div>

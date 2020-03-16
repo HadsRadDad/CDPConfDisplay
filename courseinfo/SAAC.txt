@@ -1,0 +1,28 @@
+<h1><center>Spectroscopic Alarm Adjudication (SAAC)</center></h1>
+
+<h2>Overview</h2>
+<p>The purpose of this course is to equip federal, military, state, local, tribal, and territorial entities who provide mid-level reachback support with the analysis skills and knowledge necessary to rapidly analyze gamma-ray spectra, identify the radionuclides involved, and ultimately perform initial adjudication of radiation alarms. A major component of the course is focused on mastery of the PeakEasy spectroscopy analysis software tool for radionuclide identification. A secondary focus of the course emphasizes proficiency in escalating radiation alarm events to Triage for adjudication when mid-level reachback is insufficient to rule out a potential threat.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program.</p>
+<ul>
+    <li>Confirm or deny the presence of various radionuclides by analyzing gamma-ray spectra using PeakEasy</li>
+    <li>Describe the function of the DNDO and in particular the services provided by the Joint Analysis Center (JAC) to federal, military, state, local, tribal, and territorial entities</li>
+    <li>Perform an adjudication (threat/no-threat assessment) of a radiation alarm event by analyzing gamma-ray spectra in the context of the totality of circumstances (e.g., neutron count rates, dose rates, spatial distribution of radioactive source, photos, event scenario, object description, etc.) surrounding an event</li>
+	<li>Identify additional measurements or information which would help accelerate the final adjudication of a radiation alarm event</li>
+	<li>Describe the overall radiological/nuclear threat</li>
+	<li>Identify those materials suitable for use in Radiological Dispersion Devices (RDD), Radiological Explosion Devices (RED), and Improvised Nuclear Devices (IND)</li>
+	<li>Recognize when a radiation alarm event meets the criteria for escalation to Triage for adjudication and response</li>
+	<li>Submit a comprehensive radiation alarm event package to Triage for alarm adjudication and response</li>
+</ul>
+<h2>Prerequisites and Requirements</h2>
+<p>To be eligible to attend the Spectroscopic Alarm Adjudication course, a candidate must:</p>
+<ul>
+	<li>Have a technical background in physics, health physics or related technical field.</li>
+	<li>Be approved by their jurisdiction and receive endorsement through the DNDO.</li>
+	<li>Have some hands on experience with a radioisotope identifier (RIID).</li>
+</ul>
+<h2>Course Length</h2>
+<p>5.0 days</p>
+<h2>Continuing Education Credits</h2>
+<p>The Center for Domestic Preparedness is authorized by IACET to offer 4.0 CEUs for this program.</p>
+
+</div>

@@ -1,0 +1,35 @@
+<!--COURSE TITLE--><h1><center>Hospital Emergency Response Training for Mass Casualty Incidents - Basic Train-the-Trainer (HERT-B TtT)</center></h1>
+<!--course media<div class="leftin"><img class="outside" src="http://localhost/media/ht01.jpg"></div>
+<div class="rightin"><img class="outside" src="http://localhost/media/ht02.jpg"></div>
+<center><video width="600" controls autoplay>
+  <source src="http://localhost/media/ht.mp4" type="video/mp4">
+  <source src="http://localhost/media/ht.mp4" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video></center>
+END OF COURSE MEDIA
+<div class="photos"-->
+<!--COURSE INFO-->
+<h2>Overview</h2>
+<p>The Hospital Emergency Response Training for Mass Casualty Incidents-Basic, Train-the-Trainer (HERT-B TtT) is a one-day course offered to healthcare responders who have successfully completed the HERT course. It prepares students to teach HERT at their facilities by focusing on presentation techniques, practical applications, and the preparation and maintenance of lesson plans. The HERT-B TtT course provides students with an understanding of the HERT course material to include team assignments and functions, proper wear and removal of personal protective equipment , decontamination procedures, Emergency Treatment Area location selection, and operation, and victim triage.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+<li>Constructing learning objectives that includes a task, condition, and standard of performance.</li>
+<li>Identifying the techniques necessary to provide an effective presentation.</li>
+<li>Recognize strengths and weaknesses of various training aids.</li>
+<li>Select and conduct practical exercises to facilitate the learning and capabilities of HERT members.</li>
+</ul>
+<h2>Prerequisites and Requirements</h2>
+<p>To be eligible for the course, the student must successfully complete the following courses:</p>
+<ul>
+<li>Have successfully completed HERT.</li>
+</ul>
+<h2>Course Length</h2>
+<p>1.0 days</p>
+<h2>Continuing Education Credits</h2>
+<ul>
+<li>The Center for Domestic Preparedness is authorized by IACET to offer 0.8 CEUs for this program.</li>
+<li>Nursing, through Alabama Board of Nursing (nurses only): 8</li>
+<li>Police Officer Standards and Training (POST); approved per state): 8</li>
+</ul>
+</div>
+</div>

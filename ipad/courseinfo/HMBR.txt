@@ -1,0 +1,30 @@
+<h1><center>Hazardous Materials Basic Responder for Mass Casualty Incidents (HMBR)</center></h1>
+<div class="leftin"><img class="outside" src="http://192.168.0.5/media/tert01.jpg"></div>
+<div class="rightin"><img class="outside" src="http://192.168.0.5/media/tert02.jpg"></div>
+<center><video width="600" controls autoplay>
+  <source src="http://192.168.0.5/media/tert.mp4" type="video/mp4">
+  <source src="http://192.168.0.5/media/tert.mp4" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video></center>
+<div class="photos">
+<h2>Overview</h2>
+<p>This course provides instruction and practical experience in the skills required to safely support mass casualty incident operations during a hazardous materials mass casualty incident. Course content includes knowledge and practical experience in the donning, operating in, and doffing of personal protective equipment; the conduct of emergency and tiered patient decontamination; the performance of patient triage and lifesaving interventions; and techniques for patient movement and basic rescue. The course culminates in the conduct of a simulated mass casualty incident operation requiring the performance of all learned tasks in a toxic agent environment.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+    <li>Identify the procedures for conducting hazardous materials mass casualty incident operations</li>
+    <li>Don and doff personal protective equipment level C</li>
+    <li>Perform decontamination procedures</li>
+    <li>Perform triage and lifesaving interventions</li>
+    <li>Perform basic rescue procedures</li>
+</ul>
+<h2>Prerequisites and Requirements</h2>
+<p>The target audience for this course is awareness-level personnel with an implied or stated requirement to support response operations during a hazardous materials mass casualty incident.</p>
+<h2>Course Length</h2>
+<p>2.0 days</p>
+<h2>Continuing Education Credits</h2>
+<p>As an International Association for Continuing Education and Training (IACET) authorized provider, the Center for Domestic Preparedness awards 1.6 continuing education units for this program under the American National Standards Institute (ANSI)/IACET Standard.</p>
+<br>
+<br>
+
+</div>
+</div>

@@ -1,0 +1,34 @@
+<h1><center>Framework for Healthcare Emergency Management (FRAME)</center></h1>
+
+<h2>Overview</h2>
+<p>Framework for Healthcare Emergency Management (FRAME) is a four-day course designed for personnel who are responsible for the development, implementation, maintenance, and administration of emergency management programs and plans for healthcare facilities and/or systems (e.g., hospitals, clinics, or community health centers). Functional areas addressed in this course include an overview of relevant standards, regulations, and organizations; integration with agencies and stakeholders; the Incident Command System (ICS) as it applies to healthcare; plans and the planning process; facility and personnel preparedness; exercises and training; and surge and related mass casualty issues (including patient care and/or ethics, evacuation, public affairs, and risk communications), recovery, and finances/reimbursement.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+    <li>Identify the various regulatory, accrediting, and standard-setting organizations/agencies for healthcare emergency management.</li>
+    <li>Describe the major components of the ICS as it applies to healthcare, including the roles and responsibilities of various functional areas, incident command post organization, Unified Command and operation, and the relationship to the National Incident Management System.</li>
+    <li>Identify the essential elements of a typical all-hazards healthcare facility/system emergency management program.</li>
+	<li>Identify how to conduct requirement planning, including resource acquisition and situational planning.</li>
+	<li>Identify how to assess a healthcare facility's threats, risks, and vulnerabilities, both internal and external, that may affect the continuous provision of high-quality healthcare services, including how to complete a Hazard Vulnerability Analysis.</li>
+	<li>Describe various methods of managing medical surge.</li>
+	<li>Describe ethical issues healthcare personnel may face in a disaster, including treatment issues, tracking and disclosure of patient information, patient diversion, alternate-care facilities, mass-fatality management, and restricted access.</li>
+	<li>Describe a comprehensive exercise program, including different models and methods of exercises.</li>
+</ul>
+<h2>Prerequisites and Requirements</h2>
+<p>To be eligible for the course, the student must successfully complete the following courses:</p>
+<ul>
+    <li>AWR-160, WMD/Terrorism Awareness for Emergency Responders;</li>
+    <li>IS-100.HCb, Introduction to Incident Command System for Healthcare/Hospitals;</li>
+    <li>IS-200.HCa, Applying ICS to Healthcare Organizations;</li>
+    <li>IS-700.a, National Incident Management System (NIMS), An Introduction; and</li>
+	<li>IS-800, National Response Framework (NRF), an Introduction.</li>
+<p>The CDP recommends that candidates also have the following:</p>
+	<li>Familiarity with The Joint Commission standards on emergency management; and local emergency operations and response plans.</p>
+</ul>
+<h2>Course Length</h2>
+<p>4.0 days</p>
+<h2>Continuing Education Credits</h2>
+<p>The Center for Domestic Preparedness is authorized by IACET to offer 3.2 continuing education units for this program., Nursing through Alabama Board of Nursing (nurses only): 32</p>
+<p>Continuing Medical Education, through University of Alabama at Birmingham (additional allied health professionals may be able to apply for these continuing medical education units): 32</p>
+<p>CA Environmental Health Specialist, through National Environmental Health Association (environmental health professionals): 32</p>
+<p>Police Officer Standards and Training (POST), if approved by the student's state: 32</p>
+</div>

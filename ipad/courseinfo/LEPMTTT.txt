@@ -1,0 +1,34 @@
+<!--COURSE TITLE--><h1><center>Law Enforcement Protective Measures for CBRNE Incidents, Train-the-Trainer (LEPM TtT)</center></h1>
+<!--course media<div class="leftin"><img class="outside" src="http://192.168.0.5/media/ht01.jpg"></div>
+<div class="rightin"><img class="outside" src="http://192.168.0.5/media/ht02.jpg"></div>
+<center><video width="600" controls autoplay>
+  <source src="http://192.168.0.5/media/ht.mp4" type="video/mp4">
+  <source src="http://192.168.0.5/media/ht.mp4" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video></center>
+END OF COURSE MEDIA
+<div class="photos"-->
+<!--COURSE INFO-->
+<h2>Overview</h2>
+<p>Law Enforcement Protective Measures for CBRNE Incidents, Train-the-Trainer is a two-day course for law enforcement supervisors and trainers. The course provides students with the knowledge and skills to train law enforcement responders at the performance defensive level in the areas of terrorism threats, chemical hazards, biological agents, radiological hazards, law enforcement terrorist prevention and deterrence techniques, response actions, and the Incident Command System (ICS).</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+<li>Constructing learning objectives that includes a task, a condition, and a standard of performance.</li>
+<li>Identifying the techniques necessary to provide an effective presentation.</li>
+<li>Recognizing strengths and weaknesses of various training aids.</li>
+<li>Selecting and conducting practical exercises to facilitate the learning and capabilities of law enforcement protective measure team members.</li>
+</ul>
+<h2>Prerequisites and Requirements</h2>
+<p>To be eligible for the course, candidates must:</p>
+<ul>
+<li>Be a certified/authorized trainer within a law enforcement agency or department.</li>
+</ul>
+<h2>Course Length</h2>
+<p>1.0 days</p>
+<h2>Continuing Education Credits</h2>
+<ul>
+<li>The Center for Domestic Preparedness is authorized by IACET to offer 0.8 CEUs for this program.</li>
+<li>Police Officer Standards and Training (POST); approved per state): 16</li>
+</ul>
+</div>
+</div>

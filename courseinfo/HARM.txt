@@ -1,0 +1,60 @@
+<!--COURSE TITLE--><h1><center>Hazard Assessment and Response Management for CBRNE Incidents (HARM)</center></h1>
+<!--course media--><div class="leftin"><img class="outside" src="http://localhost/media/harm02.jpg"></div>
+<div class="rightin"><img class="outside" src="http://localhost/media/harm02.jpg"></div>
+<center><video width="600" controls autoplay>
+  <source src="http://localhost/media/harm.mp4" type="video/mp4">
+  <source src="http://localhost/media/harm.mp4" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video></center>
+<!--END OF COURSE MEDIA-->
+<div class="photos">
+<!--COURSE INFO-->
+<h2>Overview</h2>
+<p>Hazard Assessment and Response Management for CBRNE Incidents (HARM), a three-day course, challenges individuals assembled from different disciplines and geographic areas to apply their operational knowledge as members of a hazardous materials (HAZMAT) team responding to a chemical, biological, radiological, nuclear, or explosive (CBRNE) incident. The course simulates the activation and deployment of a team into an active operational incident. Responders arrive in the 36th operational hour of the incident and are assigned as a HAZMAT team. The team is briefed and assigned a daily rotational period recurring over three days. Participants apply operational knowledge and skills from all emergency response disciplines in support of a HAZMAT team and assist in mitigating a CBRNE incident. All students perform tasks and respond to a variety of events in the Nation's only toxic chemical-agent training facility, the Chemical, Ordnance, Biological and Radiological (COBRA) Training Facility.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+<li>Prepare for deployment to a CBRNE incident.</li>
+<li>Employ the appropriate skills, methods, and equipment necessary to respond to a CBRNE incident.</li>
+<li>Develop a plan of action for a CBRNE incident.</li>
+<li>Respond effectively to a CBRNE incident.</li>
+<li>Conduct advanced operational tasks including designing the plan of action to detect, control, and mitigate CBRNE materials.</li>
+</ul>
+<h2>Prerequisites and Requirements</h2>
+<p>To be eligible for the course, the student must successfully complete the following courses:</p>
+<ul>
+<li>AWR-160, WMD/Terrorism Awareness for Emergency Responders;</li>
+<li>IS-100.a, Introduction to the Incident Command System or any of the available IS-100 or ICS-100 series;</li>
+<li>IS-200.a, ICS for Single Resources and Initial Action Incidents or any of the available IS-200 or ICS-200 series;</li>
+<li>IS-700.a, National Incident Management System, An Introduction; and</li>
+<li>IS-800.b, An Introduction to the National Response Framework, An Introduction.</li>
+</ul>
+<p>Students must also have completed one of the following performance-level courses offered through the CDP within the last 36 months:</p>
+<ul>
+<li>PER-260, Technical Emergency Response Training for CBRNE Incidents (TERT);</li>
+<li>PER-261, Hazardous Materials Technician for CBRNE Incidents (HT);</li>
+<li>PER-900, Intermediate Hands-On Training for CBRNE Incidents (HOT-I); or</li>
+<li>PER-262, Hands-On Training for CBRNE Incidents (HOT).</li>
+</ul>
+<h2>Course Length</h2>
+<p>3.5 days</p>
+<h2>Additional Requirements</h2>
+<p>To qualify for the HARM course, participants must have successfully entered the COBRA Training Facility during their previous attendance. Regardless of professional discipline, all participants are required to meet the following training requirements and/or standards.</p>
+<ul>
+<li>The Occupational Safety and Health Administration (OSHA) training requirements outlined in Hazardous Waste Operations and Emergency Response (HAZWOPER) 29 Code of Federal Regulations (C.F.R.) Â§ 1910.120 (2013);</li>
+<li>The guidelines of NFPA 472, Standard for Competence of Responders to Hazardous Materials/Weapons of Mass Destruction Incidents (NFPA, 2013a); and/or</li>
+<li>NFPA 473, Standard for Competencies for EMS Personnel Responding to Hazardous Materials/Weapons of Mass Destruction Incidents (NFPA, 2013b).</li>
+</ul>
+<p>Participants who attend this course must</p>
+<ul>
+<li>complete medical forms COBRATF 4.18.BV and COBRATF 4.18.BB;</li>
+<li>be physically able to lift 50 pounds or more</li>
+<li>be able to effectively operate in personal protective equipment; and</li>
+<li>have no limiting physical condition that would affect the wearing of an air-purifying respirator and/or a self-contained breathing apparatus.</li>
+</ul>
+<h2>Continuing Education Credits</h2>
+<ul>
+<li>The Center for Domestic Preparedness is authorized by IACET to offer 4.0 CEUs for this program.</li>
+<li>Police Officer Standards and Training (POST; approved per state): 40</li>
+</ul>
+</div>
+</div>

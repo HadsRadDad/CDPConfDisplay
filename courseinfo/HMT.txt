@@ -1,0 +1,30 @@
+﻿<!--COURSE TITLE--><h1><center>Hazardous Materials Technician (HMT)</center></h1>
+
+<!--course media--><div class="leftin"><img class="outside" src="http://localhost/media/erhm01.jpg"></div>
+    <div class="rightin"><img class="outside" src="http://localhost/media/erhm02.jpg"></div>
+    <div class="middlein"><img class="middle" src="http://localhost/media/erhm03.jpg"></div>
+<!--END OF COURSE MEDIA-->
+
+<!--COURSE INFO-->
+<div class="photos">
+<h2>Overview</h2>
+<p>Hands-On Training for CBRNE Incidents is a two-day course in which participants develop and apply chemical, biological, radiological, nuclear or explosive (CBRNE) incident-response practices in a realistic environment. The HOT course provides participants with knowledge and skills to perform at an operations level. The HOT course provides responders with the unique opportunity to practice their knowledge and skills in a practical exercise in the Nation's only toxic chemical-agent training facility, the Chemical, Ordnance, Biological and Radiological (COBRA) Training Facility.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+<li>Explain the course of action for a CBRNE response, including triage, decontamination, scene survey, and monitoring operations.</li>
+<li>Perform mass casualty triage, decontamination, and monitoring operations while wearing the appropriate level of personal protective equipment (PPE) in response to a CBRNE incident.</li>
+</ul>
+<h2>Prerequisites and Requirements</h2>
+<p>To be eligible for the course, the student must successfully complete the following course:</p>
+<ul>
+<li>AWR-160, WMD/Terrorism Awareness for Emergency Responders;</li>
+<li>Participants should be able to don and doff PPE Level C, don and doff self-contained breathing apparatus, lift 40 pounds or more, and meet CDP medical criteria.</li>
+</ul>
+<h2>Course Length</h2>
+<p>2.0 days</p>
+<h2>Continuing Education Credits</h2>
+<p>The Center for Domestic Preparedness is authorized by IACET to offer 1.6 CEUs for this program.</p>
+<p>Nursing, through Alabama Board of Nursing (nurses only): 16</p>
+<p>Police Officer Standards and Training (POST), if approved by the student's state: 16</p>
+</div>
+</div>

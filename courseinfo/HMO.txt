@@ -1,0 +1,61 @@
+<h1><center>Hazardous Materials Operations (HMO)</center></h1>
+ 
+<!--Media-->
+<div class="leftin"><img class="outside" src="http://localhost/media/hazmatops01.jpg"></div>
+<div class="rightin"><img class="outside" src="http://localhost/media/hazmatops02.jpg"></div>
+<div class="middlein"><img class="middle" src="http://localhost/media/hazmatops03.jpg"></div>
+<!--end media-->
+
+<!--course stuff-->
+<div class="photos">   
+<!--COURSE INFO-->
+<h2>Overview</h2>
+<p>The Hazardous Materials Operations (HAZMAT OPS) course is a five-day course that provides responders with the knowledge, skills, and abilities necessary to analyze, plan, and implement performance-defensive response actions for hazardous materials (HAZMAT) incidents. During this course, students receive instruction and hands-on experience in the knowledge, activities and responsibilities required of operations-level HAZMAT responders. Students perform advanced, practical tasks in the Nation's only toxic chemical-agent training facility, the Chemical, Ordnance, Biological and Radiological (COBRA) Training Facility. This course trains responders to National Fire Protection Association&reg (NFPA&reg) 472: Standard for Competence of Responders to Hazardous Materials/Weapons of Mass Destruction Incidents (2013 ed.) operations-level competence (chapters 5, 6.2, 6.4, and 6.6).</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+
+<ul>
+    <li>Identify hazardous materials containers.</li>
+    <li>Identify sources of hazardous materials response information.</li>
+    <li>Identify types of hazardous materials.</li>
+    <li>Identify properties of hazardous materials.</li>
+    <li>Identify behaviors of hazardous materials.</li>
+    <li>Perform response planning for hazardous materials incidents.</li>
+    <li>Respond to a hazardous materials incident.</li>
+    <li>Don and doff personal protective equipment.</li>
+    <li>Perform decontamination operations.</li>
+    <li>Perform absorption product control technique.</li>
+    <li>Perform damming product control technique.</li>
+    <li>Perform diking product control technique.</li>
+    <li>Perform dilution product control technique.</li>
+    <li>Perform diversion product control technique.</li>   
+    <li>Perform retention product control technique.</li>
+    <li>Perform remote valve shutoff product control technique.</li>    
+    <li>Perform vapor dispersion product control technique.</li>
+    <li>Perform vapor suppression product control technique.</li>    
+</ul>
+
+<h2>Prerequisites and Requirements</h2>
+<p>To be eligible for the course, a student must successfully complete the following courses:</p>
+
+<ul>
+	<li>AWR-160, WMD/Terrorism Awareness for Emergency Responders, or complete NFPA 472-compatible state or jurisdiction awareness-level hazardous-materials training</li>
+	<li>IS-100.b Introduction to the Incident Command System, IS-100, or any of the ICS-100 series</li>
+	<li>IS-200.b ICS for Single Resources and Initial Action Incidents, IS-200, or any of the ICS-200 series</li>
+	<li>Have a requirement or responsibility to serve as an operations-level HAZMAT responder</li>
+	<li>Be capable of lifting tools and equipment up to approximately 50 pounds, per the Occupational Safety and Health Administration</li>
+	<li>Be capable of standing and walking for prolonged periods</li>
+	<li>Be capable of donning, operating in, and doffing personal protective equipment to include being physically and mentally capable of wearing a respirator that conforms tightly to the face and/or equipment that encapsulates the head</li>
+	<li>Be capable of operating in confined spaces</li>
+</ul>
+
+<p>Graduates of this program have the opportunity to take the National Board on Fire Service Professional Qualifications (ProBoard) and the International Fire Service Accreditation Congress (IFSAC) exams for certification at the Hazardous Materials Technician, Operations Level.</p>
+<p>This Operations-level course and the successful completion of the Hazardous Materials Technician (HMT) course allows the student to take the National Board on Fire Service Professional Qualifications (ProBoard) and the International Fire Service Accreditation Congress (IFSAC) exam for Pro Board certification as a Hazardous Materials Technician. It is the student’s responsibility to check with their local or state HAZMAT-certifying official for recognition of these standards.</p>
+
+<h2>Course Length</h2>
+<p>5.0 days</p>
+
+<h2>Continuing Education Credits</h2>
+<ul>
+	<li>The Center for Domestic Preparedness is authorized by IACET to offer 4.0 CEUs for this program.</li>
+</ul>
+</div>

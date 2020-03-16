@@ -1,0 +1,37 @@
+<!--COURSE TITLE--><h1><center>Evidence Collection in a Hazardous Materials Environment (HEC)</center></h1>
+<!--course media--><div class="leftin"><img class="outside" src="http://192.168.0.5/media/hec01.jpg"></div>
+    <div class="rightin"><img class="outside" src="http://192.168.0.5/media/hec02.jpg"></div>
+    <div class="middlein"><img class="middle" src="http://192.168.0.5/media/hec03.jpg"></div>
+<!--END OF COURSE MEDIA-->
+<div class="photos">
+<!--COURSE INFO-->
+<h2>Overview</h2>
+<p>Through the four-day Evidence Collection in a Hazardous Materials Environment (HEC) course, responders receive instruction in hazardous evidence preservation and sampling, field screening, evaluating physical evidence, responsibilities of evidence collection teams, and methods for evidence documentation and packaging. Students perform advanced, practical tasks in the Nation’s only toxic chemical-agent training facility, the Chemical, Ordnance, Biological, and Radiological (COBRA) Training Facility.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+<li>Plan a response to a criminal hazardous materials incident.</li>
+<li>Conduct preliminary survey of crime scene.</li>
+<li>Document the crime scene.</li>
+<li>Collect hazardous evidence.</li>
+<li>Screen evidence for corrosiveness, flammability, oxidation, radioactivity, and volatile organic compounds.</li>
+<li>Release the crime scene.</li>
+<li>Don and doff Level C personal protective equipment.</li>
+</ul>
+<h2>Course Length</h2>
+<p>4.0 days</p>
+<h2>Additional Requirements</h2>
+<p>To be eligible to attend the course, a student must:</p>
+<ul>
+<li>Have a responsibility or requirement to collect evidence in a hazardous materials environment;</li>
+<li>Have been trained in the use of personal protective equipment (PPE) in a chemical, biological, radiological, nuclear, or explosive (CBRNE) environment; and</li>
+</ul>
+<p>The student must successfully complete:</p>
+<p>AWR-160, WMD/Terrorism Awareness for Emergency Responders and
+IS-100.b Introduction to the Incident Command System or any of the ICS-100 series.</p>
+<p>Exceptions to any of the above prerequisites may be granted on a case-by-case basis at the discretion of the CDP Registrar.</p>
+<h2>Continuing Education Credits</h2>
+<ul>
+<li>The Center for Domestic Preparedness is authorized by the IACET to offer 2.4 continuing education units for this program.</li>
+</ul>
+</div>
+</div>

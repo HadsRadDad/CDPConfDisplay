@@ -1,0 +1,34 @@
+<!--COURSE TITLE--><h1><center>Incident Complexities - Responder Actions for CBRNE Incidents (ICR)</center></h1>
+<!--course media<div class="leftin"><img class="outside" src="http://localhost/media/ht01.jpg"></div>
+<div class="rightin"><img class="outside" src="http://localhost/media/ht02.jpg"></div>
+<center><video width="600" controls autoplay>
+  <source src="http://localhost/media/ht.mp4" type="video/mp4">
+  <source src="http://localhost/media/ht.mp4" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video></center>
+END OF COURSE MEDIA
+<div class="photos"-->
+<!--COURSE INFO-->
+<h2>Overview</h2>
+<p>This hands-on training course is executed in a round-robin rotation in mass casualty response, decontamination procedures, scene survey and safety, and monitoring. Participants review, discuss information, and practice skills necessary to effectively respond to a CBRNE incident. Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+<li>Principles of Mass Casualty Response,</li>
+<li>Decontamination,</li>
+<li>Scene Survey and Safety, and</li>
+<li>CBRN Monitoring and PPE Level C.</li>
+</ul>
+<p>At the conclusion of this course, participants will be able to explain the mechanics of a CBRNE response, including triage, decontamination, scene survey, and monitoring operations.</p>
+<h2>Prerequisites and Requirements</h2>
+<p>To be eligible for the course, the student must successfully complete the following course, or an equivalent awareness training program:</p>
+<ul>
+<li>AWR-160, WMD/Terrorism Awareness for Emergency Responders</li>
+<li>Participants should be able to Don and doff PPE Level C, lift 40 pounds or more, and meet the medical criteria as established by OSHA</li>
+</ul>
+<h2>Course Length</h2>
+<p>1.0 days</p>
+<h2>Continuing Education Credits</h2>
+<ul>
+<li>The Center for Domestic Preparedness is authorized by IACET to offer 0.8 CEUs for this program.</li>
+</ul>
+</div>
+</div>

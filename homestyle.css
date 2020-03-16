@@ -1,0 +1,151 @@
+body {
+    background-image: url("bgcon.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+	cursor: none;
+ }
+
+div.vid {
+    position: absolute;
+    top:  2vh;
+    left: 1vw;
+    width: 48vw;
+    margin: auto
+	background-color: black;
+	cursor: none;
+}
+
+div.rightmenu {
+    position: fixed;
+    top: 2vh;
+    right: 0vw;
+    height: 90vh;
+    width: 55vw;
+	text-shadow: 6px 6px 5px black;
+	cursor: none;
+}
+
+div.bottom {
+	position: absolute;
+	top: 60vh;
+	left: 2vw;
+	width: 45vw;
+	height: 18vh;
+	background-color: #2B3856;
+	border-radius: 25px;
+    box-shadow:17px 20px 5px -1px black;
+	text-align: center;
+	cursor: none;
+	border-style: solid;
+	border-color: red;
+}
+
+video {
+    box-shadow: 25px 28px 20px -1px black;
+	width: 101%;
+	border-style: solid;
+	border-width: 5px;
+	cursor: none;
+}
+
+
+
+img.picture {
+    position: relative;
+    top: 1vh;
+    left: 30px;
+    width: 100px;
+    height: 100px;
+}
+
+div.textunder {
+  text-align: center;
+  font-family: Arial;
+  width: 160px;
+  height: auto;
+  font-size: 14px;
+  font-weight: bold;
+  text-shadow: 3px 3px 1px black;
+  position: relative;
+  top: -20px;
+  line-height: 14px;
+  cursor: none;
+}
+
+table {
+    position: relative;
+    left: 1vw;
+	cursor: none;
+}
+
+td {
+    padding-left: 40px;
+	padding-bottom: 30px;
+}
+
+div.polaroid {
+    width: 8vw;
+	height: 8vh;
+    background-color: #2B3856;
+    box-shadow:17px 20px 5px -1px black;
+    border-radius: 15px;
+	font-family: Discipline;
+	text-align: center;
+	font-size: 55px;
+	padding-top: 30px;
+	line-height: 90px;
+	cursor: none;
+	border-style: solid;	
+	border-color: red;
+}
+
+a {
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+	cursor: none;
+}
+
+a.bottom {
+	font-weight: bold;
+	text-decoration: none;
+	color: white;
+	font-size: 55px;
+	line-height: 200px;
+    text-shadow: 6px 6px 5px black;
+	cursor: none;
+}
+
+@font-face {
+	font-family: Discipline;
+	src: url(Disciplines.otf);
+	font-weight: bold;
+}
+
+.polaroid:active {
+	 box-shadow: 8px 10px 2px -1px black
+}
+
+.bottom:active {
+	 box-shadow: 8px 10px 2px -1px black
+}
+
+a.other {
+	font-family: serif;
+	font-weight: bold;
+	text-decoration: none;
+	color: white;
+	font-size: 75px;
+    text-shadow: 6px 6px 5px black;
+	cursor: none;
+}
+
+a.other1 {
+	font-family: serif;
+	font-weight: bold;
+	text-decoration: none;
+	color: white;
+	font-size: 48px;
+    text-shadow: 6px 6px 5px black;
+	cursor: none;
+}

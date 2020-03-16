@@ -1,0 +1,35 @@
+<h1><center>Advanced Radiological Incident Operations (ARIO)</center></h1>
+
+<h2>Overview</h2>
+<p>The Advanced Radiological Incident Operations course is a five-day course that provides participants with the advanced skills necessary to safely respond to and manage incidents involving radiological hazards. Participants apply these skills in tabletop exercises based on realistic radiological incident scenarios, set within the Incident Command System structure.</p>
+<p>As this course is being taught, the Radiological Emergency Response Operations (RERO) course will also be in session with both courses coming together in an Integrated Capstone Event. The ARIO course will focus on Emergency Operations Center responsibilities, coordination of the field monitoring teams, data collection, and developing recommendations for protective actions whereas the RERO course will focus on first responder hands-on equipment skills, and responsibilities as members of a field monitoring team during radiological Plume and Ingestion Pathway incidents.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program.</p>
+
+<ul>
+    <li>Identify radiological terms, hazards, methods of protection, and the physiological effects of radiation.</li>
+    <li>Describe advanced radiological concepts, including radiological hazards, methods of protection, and the physiological effects of radiation.</li>
+    <li>Select the appropriate radiation detection instruments in response to a radiological incident.</li>
+	<li>Describe the potential hazards at a commercial nuclear power plant incident.</li>
+	<li>Develop an incident action plan for a radiological incident in accordance with the National Incident Management System.</li>
+</ul>
+
+<h2>Prerequisites and Requirements</h2>
+<p>To be eligible for the course, a student must successfully complete the following courses:</p>
+
+<ul>
+	<li>AWR160, WMD/Terrorism Awareness for Emergency Responders;</li>
+	<li>IS-836, Nuclear/Radiological Incident Annex</li>
+	<li>IS-200.b ICS for Single Resources and Initial Action Incidents or any of the ICS-200 series;</li>
+	<li>PER-904, Radiological Emergency Operations or</li>
+	<li>PER-240, WMD Radiological/Nuclear Responder Operations Course or PER-241 Radiological /Nuclear Course for HAZMAT Technicians</li>
+</ul>
+
+<h2>Course Length</h2>
+<p>5.0 days</p>
+
+<h2>Continuing Education Credits</h2>
+<ul>
+	<li>The Center for Domestic Preparedness is authorized by IACET to offer 4.0 CEUs for this program.</li>
+	<li>Police Officer Standards and Training (POST), if approved by the student’s state: 40</li>
+</ul>
+</div>

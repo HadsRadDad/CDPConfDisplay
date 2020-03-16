@@ -1,0 +1,33 @@
+<!--COURSE TITLE--><h1><center>Managing Public Information for All Hazards Incidents (MPI)</center></h1>
+
+<!--COURSE INFO-->
+<h2>Overview</h2>
+<p>Managing Public Information for All-Hazards Incidents (MPI) is a four-day course that provides students with the practical knowledge of the role of the Public Information Officer, the National Incident Management System, emergency communications methods, risk communication, and interpersonal skills. Students also learn message development and delivery, legal considerations, press conferences, the operation of a Joint Information Center, stress management, and strategic communication and planning. Additionally, students conduct various public information activities and exercises, to include writing messages and conducting press conferences. The course culminates with a practical exercise designed to plan, develop, integrate, and disseminate public information for an emergency, incident, or disaster as part of a Joint Information Center.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+    <li>Illustrate the multiple roles of the Public Information Officer and the media in planning for and responding to an emergency.</li>
+    <li>Recognize various legal aspects associated with emergencies and public information.</li>
+    <li>Understand the National Incident Management System, Incident Command System and their correlation with the emergency response system.</li>
+    <li>Construct and deliver an appropriate crisis and emergency risk message.</li>
+    <li>Gather, verify, coordinate, and disseminate public information in an emergency from a Joint Information Center.</li>
+</ul>
+<h2>Prerequisites and Requirements</h2>
+<p>To be eligible for the course, the student must successfully complete the following courses:</p>
+<ul>
+<li>AWR-160, Standardized Awareness Training;/li>
+<li>IS-100.b, Introduction to the Incident Command System or any of the available ICS-100 series;</li>
+<li>IS-200.b, ICS for Single Resources and Initial Action Incidents or any of the available ICS-200 series; and</li>
+<li>IS-700, National Incident Management System, An Introduction.</li>
+</ul>
+<p>The completion of the following courses is recommended but not required.</p>
+<ul>
+<li>ICS-300: Intermediate ICS for Expanding Incidents;</li>
+<li>ICS-400, Advanced ICS for Command and General Staff;</li>
+<li>IS-702.a, National Incident Management System (NIMS) Public Information Systems; and</li>
+<li>IS-800.b, National Response Framework, An Introduction.</li>
+</ul>
+<h2>Course Length</h2>
+<p>4.0 days</p>
+<h2>Continuing Education Credits</h2>
+<p>The Center for Domestic Preparedness is authorized by IACET to offer 3.2 CEUs for this program.</p>
+</div>

@@ -1,0 +1,22 @@
+<!--COURSE TITLE--><h1><center>REP Exercise Evaluator (REEC)</center></h1>
+<!--course media<div class="leftin"><img class="outside" src="http://192.168.0.5/media/ht01.jpg"></div>
+<div class="rightin"><img class="outside" src="http://192.168.0.5/media/ht02.jpg"></div>
+<center><video width="600" controls autoplay>
+  <source src="http://192.168.0.5/media/ht.mp4" type="video/mp4">
+  <source src="http://192.168.0.5/media/ht.mp4" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video></center>
+END OF COURSE MEDIA
+<div class="photos"-->
+<!--COURSE INFO-->
+<h2>Overview</h2>
+<p>The Radiological Preparedness (REP) REP Exercise Evaluation Course (REEC) is a 3.5-day course which provides responders the regulatory guidelines required to evaluate REP exercises, how to prepare for evaluations and observations during and after exercise activities plus techniques for exercise evaluations. Students will have the opportunity to observe video vignettes of REP exercises and the development of exercise narratives submitted to the REP Exercise Evaluation Tool (EET), for review. In conjunction with the required prerequisites this course fulfills the credentialing training requirements for becoming a Type III REP Exercise Evaluator.</p>
+<h2>Additional Requirements</h2>
+<ul>
+	<li>CDP 004-14 Radiological Core Concepts Course, and IS-331 Introduction to Radiological</li>
+	<li><b>Recommended: IS-100, IS-120.a, IS-200, IS-302, IS-331, IS 700, IS-800.b, IS-812, L-146 (HSEEP)</li>
+</ul>
+<h2>Course Length</h2>
+<p>3.5 days</p>
+</div>
+</div>

@@ -1,0 +1,56 @@
+<!--COURSE TITLE--><h1><center>Healthcare Leadership and Administrative Decision Making (HCL)</center></h1>
+<!--course media--><div class="leftin"><img class="outside" src="http://192.168.0.5/media/hcl01.jpg"></div>
+<div class="rightin"><img class="outside" src="http://192.168.0.5/media/hcl02.jpg"></div>
+<center><video width="600" controls autoplay>
+  <source src="http://192.168.0.5/media/hcl.mp4" type="video/mp4">
+  <source src="http://192.168.0.5/media/hcl.mp4" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video></center>
+<!--END OF COURSE MEDIA-->
+<div class="photos">
+
+<!--COURSE INFO-->
+<h2>Overview</h2>
+<p>Healthcare Leadership for Mass Casualty Incidents is a four-day course that addresses disaster preparedness at the facility and system level. Healthcare leaders must be prepared for any incident that results in multiple casualties, whether it is the result of a natural disaster; an accidental or intentional release of a chemical, biological, radiological, nuclear, or explosives (CBRNE) hazard; or a disease outbreak that results in an epidemic or pandemic. This course focuses on preparing healthcare leaders to make critical decisions in all-hazards disaster emergency preparedness activities. Responders learn essential disaster-planning response and recovery functions through lecture/discussion format that are then applied in a tabletop exercise and a two-day functional exercise.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+
+<ul>
+    <li>Clarify healthcare emergency management roles and responsibilities in the disaster life-cycle process-mitigation, preparedness, response, and recovery for all-hazards disasters</li>
+    <li>Identify key partners in disaster preparedness, their roles, and interrelationships in responding to a disaster</li>
+    <li>Relate the use of the Incident Command System (ICS) in the healthcare system through Hospital Incident Command System (HICS) and the Public Health Incident System (PHICS)</li>
+    <li>Illustrate roles and responsibilities in obtaining and distributing medical supplies in a disaster situation</li>
+    <li>Illustrate the difficult decisions that healthcare leaders face regarding palliative care and mass fatality management</li>
+    <li>Summarize the development of emergency public information and risk communications messages</li>
+    <li>Differentiate requirements for types of decontamination procedures and facilities in addition to personal protective equipment (PPE) to be used in healthcare facilities for a variety of hazards</li>
+    <li>Describe the various concepts associated with the disaster planning process</li>
+    <li>Identify important aspects of Noble, U.S.A., and roles of the functional areas in the exercises</li>
+    <li>Apply Comprehensive Emergency Management (CEM) to a disaster response situation</li>
+    <li>Apply the concepts of healthcare disaster planning</li>
+    <li>Summarize the role of healthcare response in an all-hazards disaster</li>
+    <li>Conduct healthcare response to a disaster</li>
+    <li>Respond to a healthcare all-hazards disaster</li>
+</ul>
+
+<h2>Prerequisites and Requirements</h2>
+<p>To be eligible for the course, the student must successfully complete the following courses:</p>
+<ul>
+	<li>AWR-160, WMD/Terrorism Awareness for Emergency Responders</li>
+	<li>IS-100.c, Introduction to Incident Command System for Healthcare/Hospitals, IS-100</li>
+	<li>IS-200.HCa, Applying ICS to Healthcare Organizations, IS-200</li>
+	<li>IS-700.b, National Incident Management System, An Introduction, IS-700</li>
+	<li>IS-800.c, National Response Framework, An Introduction, IS-800</li>
+	<li>Recommend completion of ICS-300, Intermediate ICS for Expanding Incidents.</li>
+</ul>
+
+<h2>Course Length</h2>
+<p>4.0 days</p>
+
+<h2>Continuing Education Credits</h2>
+<ul>
+	<li>The Center for Domestic Preparedness is authorized by IACET to offer 3.2 continuing education units for this program.</li>
+	<li>Nursing through Alabama Board of Nursing (nurses only): 32</li>
+	<li>Continuing Medical Education, through University of Alabama at Birmingham (additional allied health professionals may be able to apply for these continuing medical education units): 32</li>
+	<li>Police Officer Standards and Training (POST), if approved by the student's state: 32</li>
+</ul>
+</div>
+

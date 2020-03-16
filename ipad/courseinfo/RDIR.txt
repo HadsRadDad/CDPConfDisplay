@@ -1,0 +1,22 @@
+<!--COURSE TITLE--><h1><center>REP Disaster Initiated Review (RDIR)</center></h1>
+<!--course media<div class="leftin"><img class="outside" src="http://192.168.0.5/media/ht01.jpg"></div>
+<div class="rightin"><img class="outside" src="http://192.168.0.5/media/ht02.jpg"></div>
+<center><video width="600" controls autoplay>
+  <source src="http://192.168.0.5/media/ht.mp4" type="video/mp4">
+  <source src="http://192.168.0.5/media/ht.mp4" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video></center>
+END OF COURSE MEDIA
+<div class="photos"-->
+<!--COURSE INFO-->
+<h2>Overview</h2>
+<p>The purpose of this course is to provide emergency managers, from Offsite Response Organizations (OROs) within the 10 or 50-mile Emergency Planning Zones (EPZs) of a NRC-licensed commercial nuclear power plant, with the fundamental knowledge of the Preliminary Capabilities Assessment (PCA) or if warranted the Disaster Initiated Review (DIR) process, as referenced in the FEMA Radiological Emergency Preparedness (REP) Program Disaster Initiated Review (DIR) Standard Operating Guide (SOG), Post-Disaster Assessment of Offsite Capabilities Checklists, and the Nuclear Regulatory Commission (NRC) Inspection Manual (IM) Chapter 1601.</p>
+<h2>Prerequisites and Requirements</h2>
+<ul>
+	<li>Complete the AWR-317 REP Core Concepts Course (RCCC)</li>
+	<li>Exceptions to any of the above prerequisites may be granted on a case-by-case basis at the discretion of the REP Regional Course Manager (RCM).</li>
+</ul>
+<h2>Course Length</h2>
+<p> 0.6 days</p>
+</div>
+</div>

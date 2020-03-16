@@ -1,0 +1,203 @@
+body {
+	background-image: url("bgcon.jpg"), linear-gradient(to right, #ffffff 59%, #666699 190%);
+    background-size: 100vw 100vh;
+	background-blend-mode: hard-light;
+    background-repeat: no-repeat;
+	cursor: none;
+ }
+
+div.vid {
+    position: absolute;
+    top:  15vh;
+    left: 2.5vw;
+    width: 50vw;
+	max-width: 1000px;
+    margin: auto;
+	background-color: black;
+	cursor: none;
+	border-radius: 15px;
+}
+
+div.rightmenu {
+    position: fixed;
+    top: 9vh;
+    left: 48vw;
+    height: 90vh;
+    width: 55vw;
+	max-width: 1200px;
+	text-shadow: 6px 6px 5px black;
+	cursor: none;
+}
+
+div.bottom {
+	position: absolute;
+	top: 76vh;
+	left: 2.5vw;
+	width: 50vw;
+	max-width: 1000px;
+	height: 6.5vw;
+	max-height: 150px;
+	background-color: #2B3856;
+	border-radius: 15px;
+    box-shadow:2vh 2vh 2vw -1px black;
+	text-align: center;
+	cursor: none;
+	border-style: solid;
+	border-color: red;
+}
+
+a.bottom {
+	font-weight: bold;
+	font-family: Arial;
+	text-decoration: none;
+	color: white;
+	font-size: 5vh;
+	line-height: 7vw;
+    text-shadow: 6px 6px 5px black;
+	cursor: none;
+}
+
+video {
+    box-shadow: 2vh 2vh 2vw -1px black;
+	width: 100%;
+	border-style: solid;
+	border-color: red;
+	border-radius: 15px;
+	border-width: 2px;
+	cursor: none;
+}
+
+
+
+img.picture {
+    position: relative;
+    top: 10px;
+    left: 30px;
+    width: 100px;
+    height: 100px;
+}
+
+table {
+    position: relative;
+    left: 10px;
+	cursor: none;
+}
+
+td {
+    padding-left: 2vw;
+	padding-bottom: 2vw;
+}
+
+div.polaroid {
+    width: 8vw;
+	max-width: 150px;
+	height: 7vw;
+	max-height: 115px;
+    background-color: #2B3856;
+    box-shadow:1.5vh 1.5vh 2vw -1px black;
+    border-radius: 15px;
+	font-family: Discipline;
+	text-align: center;
+	font-size: 2.5vw;
+	padding-top: 1.5vh;
+	padding-bottom: 1px;
+	padding-right: 1px;
+	padding-left: 1px;
+	line-height: 3.5vw;
+	cursor: none;
+	border-style: solid;	
+	border-color: red;
+}
+
+div.polaroidA {
+    width: 8vw;
+	max-width: 150px;
+	height: 9vw;
+	max-height: 129px;
+    background-color: #2B3856;
+    box-shadow:1.5vh 1.5vh 2vw -1px black;
+    border-radius: 15px;
+	font-family: Discipline;
+	text-align: center;
+	font-size: 3vw;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	padding-right: 1px;
+	padding-left: 1px;
+	line-height: 2.5vh;
+	cursor: none;
+	border-style: solid;	
+	border-color: red;
+}
+
+div.textunder {
+  text-align: center;
+  font-family: serif;
+  width: auto;
+  height: auto;
+  font-size: 26%;
+  font-weight: bold;
+  text-shadow: 3px 3px 1px black;
+  position: relative;
+  top: -0.5vh;
+  line-height: 15px;
+  cursor: none;
+  overflow-wrap: normal;
+  overflow: hidden;
+}
+
+a.emblem {
+    font-weight: bold;
+    text-decoration: none;
+	font-size: 5vh;
+    color: white;
+	cursor: none;
+}
+
+p {
+	font-size: 1.33vh;
+	color: white;
+	text-decoration: none;
+}
+
+
+@font-face {
+	font-family: Discipline;
+	src: url(Disciplines.otf);
+	font-weight: bold;
+}
+
+.polaroid:active {
+	 box-shadow: 8px 10px 2px -1px black
+}
+
+.bottom:active {
+	 box-shadow: 8px 10px 2px -1px black
+}
+
+a.other {
+	font-family: serif;
+	font-weight: bold;
+	text-decoration: none;
+	color: white;
+	font-size: 5vh;
+    text-shadow: 6px 6px 5px black;
+	cursor: none;
+}
+
+a.other1 {
+	font-family: serif;
+	font-weight: bold;
+	text-decoration: none;
+	color: white;
+	font-size: 3vh;
+    text-shadow: 6px 6px 5px black;
+	cursor: none;
+}
+
+p.indir {
+	font-family: serif;
+	font-weight: bold;
+	color: white;
+	font-size: 2vh;
+}

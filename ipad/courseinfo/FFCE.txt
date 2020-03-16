@@ -1,0 +1,26 @@
+<h1><center>Field Force Command and Planning for Executives (FFCE)</center></h1>
+
+<h2>Overview</h2>
+<p>This course provides executive level managers and leaders with skills that enable them to coordinate and direct responders safely in a field force-type incident. The course provides management-level responders with information regarding disorderly behavior and issues surrounding civil actions. This course develops response managers who understand the appropriate planning actions to respond safely and appropriately to a civil action incident at the management level.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program.</p>
+<ul>
+    <li>Apply lessons learned to current and future incidents involving civil actions/disorders</li>
+    <li>Develop comprehensive strategic and tactical plans for their organization when preparing for special events, civil disorders, and public assemblies</li>
+    <li>Describe the tactics protest groups use during a civil action/disorder event that require a law enforcement response</li>
+	<li>Associate and apply legal principles and applicable case and statutory law to their positions, as well as their departments’ mission in planning and executing the management of civil actions or disorders</li>
+	<li>Apply available force multiplier options based on the purposes and circumstances surrounding their deployment</li>
+	<li>Describe the equipment that could be used during a civil action/disorder to provide body and respiratory protection from chemicals</li>
+</ul>
+<h2>Prerequisites and Requirements</h2>
+<p>To be eligible for the course, the student must successfully complete the following courses:</p>
+<ul>
+<li>AWR-160, WMD/Terrorism Awareness for Emergency Responders or Standardized Awareness Training (SAT)</li> - IS-700.a, National Incident Management System, An Introduction - IS-100, Introduction to the Incident Command System - IS-200, ICS for Single Resources and Initial Action Incidents - ICS 300, Intermediate Incident Command</p>
+<li>IS-700.b, National Incident Management System, An Introduction</li>
+<li>IS-100, Introduction to the Incident Command System</li>
+<li>IS-200, ICS for Single Resources and Initial Action Incidents</li>
+<li>ICS 300, Intermediate Incident Command</li>
+</ul>
+<h2>Course Length</h2>
+<p>1.0 days</p>
+
+</div>

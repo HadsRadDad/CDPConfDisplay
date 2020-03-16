@@ -1,0 +1,23 @@
+<!--COURSE TITLE--><h1><center>Law Enforcement Response Actions for CBRNE Incidents (LERA)</center></h1>
+
+<h2>Overview</h2>
+<p>Law Enforcement Response Actions for CBRNE Incidents (LERA) is a one-day training course during which law enforcement and security personnel apply the knowledge and skills they learned during Law Enforcement Protective Measures for CBRNE Incidents through practice and realistic incident scenarios. Students receive advanced practical application in the identification of CBRNE hazards, personal protective equipment, safety considerations, and hazards and evidence preservation.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+    <li>Identify biological, chemical, and explosive hazards.</li>
+    <li>Don and doff personal protective equipment.</li>
+    <li>Assume initial command of a CBRNE incident.</li>
+    <li>Handle a weapon and perform weapon-retention techniques.</li>
+    <li>Preserve evidence.</li>
+    <li>Process through technical decontamination.</li>
+</ul>
+<h2>Additional Requirements</h2>
+<p>Participants must have previously completed awareness level training and prior lecture-based performance level training. Participants must have completed the Law Enforcement Protective Measures for CBRNE Incidents (LEPM or LEPM TtT) course offered through the Center for Domestic Preparedness (CDP).</p>
+<h2>Course Length</h2>
+<p>1.0 days</p>
+<h2>Continuing Education Credits</h2>
+<ul>
+<li>The Center for Domestic Preparedness is authorized by IACET to offer 0.8 CEUs for this program.</li>
+<li>Police Officer Standards and Training (POST; approved per state): 8</li>
+</ul>
+</div>

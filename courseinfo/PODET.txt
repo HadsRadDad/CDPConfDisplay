@@ -1,0 +1,21 @@
+<h1><center>POD Essentials Train-the-Trainer (PODET)</center></h1>
+<h2>Overview</h2>
+<p>POD Essentials Train-the-Trainer is a three-day course that prepares state, local, tribal, and territorial public health instructors to deliver the POD Essentials course to local audiences. POD Essentials is an engaging, introductory-level course designed by the Centers for Disease Control and Prevention (CDC) for staff and volunteers new to working in a point of dispensing (POD) site during a public health emergency.</p>
+<p>This hands-on course walks trainers through the process of preparing and presenting the customizable POD Essentials course that can incorporate jurisdiction-specific plans, policies and procedures. This train-the-trainer course includes facilitation tips for adding dynamic and engaging features into the POD Essentials course. Participants will work together to complete a culminating presentation activity to facilitate a customized portion of the POD Essentials course. By the end of the course, participants will be able to</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+    <li>Apply the framework, design and intent of the POD Essentials course and its associated resources.</li>
+    <li>Complete course administration tasks for delivery of the POD Essentials course to Local Audiences.</li>
+    <li>Customize POD Essentials Course Materials using jurisdiction-specific policies, procedures and plans.</li>
+	<li>Facilitate POD Essentials presentations and activities to prepare new POD staff and volunteers for working in a POD during a public health emergency.</li>
+</ul>
+<h2>Course Length</h2>
+<p>3.0 days</p>
+<h2>Prerequisites and Requirements</h2>
+<li>AWR-160, WMD/Terrorism Awareness for Emergency Responders.</li>
+<li>IS-100.B: Introduction to Incident Command System, ICS-100 ICS 200</li>
+<li>SNS Overview Course on CDC Train (https://www.train.org/cdctrain/)</li>
+<br>
+<br>
+<div>
+</div>

@@ -1,0 +1,286 @@
+
+
+.main {
+    background-image: url("../ipadbg.png"), linear-gradient(to right, #d4d6f1 59%, #666699 100%);
+    background-blend-mode: hard-light;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    overflow: hidden;
+    position: fixed;
+}
+
+
+body{
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+img.home {
+    width: 90px;
+    height: 70px;
+	cursor: none;
+}
+
+
+.top{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    padding: 10px 15px;
+    align-items: center;
+    font-weight: bold;
+    font-size: 3.5vw;
+    color: white;
+    font-family: Arial;
+    text-shadow: 5px 5px 3px black;
+    background-color: #2B3856;
+    border-bottom: 2px solid black;
+    cursor: none;
+    flex-basis: 100%;
+    height: 10vh;
+    user-select: none; /* supported by Chrome and Opera */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Firefox */
+   -ms-user-select: none; /* Internet Explorer/Edge */
+   -webkit-touch-callout: none;
+}
+
+.femalogo {
+	cursor: none;
+}
+
+img.fema {
+    -webkit-filter: drop-shadow(8px 8px 4px black);
+    filter: drop-shadow(8px 8px 4px black);
+	height: 7vh;
+}
+
+.left{
+    padding: 3px;
+    overflow-y: scroll;
+    height: 80%;
+    width: 20vw;
+    overflow-x: hidden;
+    cursor: none;
+    display: flex;
+    flex-basis: 25%;
+    flex-direction: column;
+    align-items: flex-start;
+    user-select: none; /* supported by Chrome and Opera */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Firefox */
+   -ms-user-select: none; /* Internet Explorer/Edge */
+   -webkit-touch-callout: none;
+}
+
+.right{
+    border: 3px solid black;
+    height: 71vh;
+    padding-top: 3vh;
+    padding-right: 2vw;
+    padding-left: 2vw;
+    color: black;
+    background-color: white;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    cursor: none;
+    width: 68vw;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    user-select: none; /* supported by Chrome and Opera */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Firefox */
+   -ms-user-select: none; /* Internet Explorer/Edge */
+   -webkit-touch-callout: none;
+}
+
+    
+.content {
+    width: 80vw;
+    height: 900px;
+    border: 3px solid black;
+}
+
+.button {
+    background-color: #2B3856;
+    color: white;
+    font-size: 1.5vw;
+    margin: 0 1vw 15px 1vw;
+    text-shadow: 1px 1px 0px #1569C7;
+    text-decoration: none;
+    box-shadow: 10px 8px 4px -2px rgba(0,0,0,0.75);
+    font-weight: normal;
+    font-family: Sans-Serif;
+    width: 90%;
+    min-height: 9vw;
+    padding: 1vw;
+    border-style: solid;
+    border-color: red;
+    border-width: 3px;
+    border-radius: 15px;
+    user-select: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-touch-callout: none;
+}
+
+.button:hover{
+    box-shadow: 10px 8px 4px -8px rgba(0,0,0,0.75);
+    user-select: none; /* supported by Chrome and Opera */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Firefox */
+   -ms-user-select: none; /* Internet Explorer/Edge */
+   -webkit-touch-callout: none;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+}
+
+.infobox{
+    height: 55vh;
+}
+
+.title {
+    text-align: center;
+    user-select: none; /* supported by Chrome and Opera */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Firefox */
+   -ms-user-select: none; /* Internet Explorer/Edge */
+   -webkit-touch-callout: none;
+}
+
+.mediabox {
+    flex-basis: 70%;
+    max-height: 40vh;
+    width: 100%;
+    border: 3px solid black;
+    cursor: none;
+    background-color: black;
+    user-select: none; /* supported by Chrome and Opera */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Firefox */
+   -ms-user-select: none; /* Internet Explorer/Edge */
+   -webkit-touch-callout: none;
+}
+
+img.middle {
+    height: 100%;
+    width: 100%;
+    user-select: none; /* supported by Chrome and Opera */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Firefox */
+   -ms-user-select: none; /* Internet Explorer/Edge */
+   -webkit-touch-callout: none;
+}
+
+.vid {
+    height: 100%;
+    width: 100%;
+}
+
+#home{
+    position: absolute;
+    bottom: 1vh;
+    left: unset;
+    right: 2vw;
+    height: 6vh;
+    width: 12vh;
+    max-height: 75px;
+    max-width: 100px;
+    color: white;
+    background-color: #2B3856;
+    font-size: 1.5vw;
+    font-weight: bold;
+    box-shadow: 5px 4px 2px black;
+    border-color: #2B3856;
+  }
+
+@media only screen and (orientation: portrait) {
+   
+    #home{
+        position: absolute;
+        bottom: 1vh;
+        left: unset;
+        right: 2vw
+    }
+
+    .top{
+        font-size: 3.5vh;
+    }
+
+    img.femalogo {
+        height: 7vw;
+    }
+}
+
+
+@media only screen 
+and (max-width: 750px)
+and (orientation: portrait) {
+
+
+    .main {
+        display: block;
+    }
+
+    .left{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        cursor: none;
+        overflow-x: scroll;
+        overflow-y: hidden;
+        flex-basis: 100%;
+        width: 99vw;
+        height: 12vh;
+        }
+
+    .right {
+        margin: auto;
+        width: 90vw;
+        height: 65vh;
+        margin-top: 1vh;
+    }
+
+    #home{
+        height: 6vw;
+        width: 10vw;
+        font-size: 2vw;
+        bottom: 1vh;
+        right: 1vw;
+    }
+
+    .button{
+        width: 50%;
+        min-width: 25vw;
+        height: 18vw;
+        min-height: 60px;
+        padding: 1vw;
+        font-size: 2vw;
+        margin: 1vw;
+    }
+
+    .title{
+        font-size: 3vw;
+    }
+
+    .infobox{
+        font-size: 2vw;
+    }
+}

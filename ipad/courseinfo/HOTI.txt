@@ -1,0 +1,37 @@
+<!--COURSE TITLE--><h1><center>Intermediate Hands-On Training for CBRNE Incidents (HOT-I)</center></h1>
+<!--course media<div class="leftin"><img class="outside" src="http://192.168.0.5/media/ht01.jpg"></div>
+<div class="rightin"><img class="outside" src="http://192.168.0.5/media/ht02.jpg"></div>
+<center><video width="600" controls autoplay>
+  <source src="http://192.168.0.5/media/ht.mp4" type="video/mp4">
+  <source src="http://192.168.0.5/media/ht.mp4" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video></center>
+END OF COURSE MEDIA
+<div class="photos"-->
+<!--COURSE INFO-->
+<h2>Overview</h2>
+<p>The Intermediate Hands-On Training for Chemical, Biological, Radiological, Nuclear and Explosive (CBRNE) Incidents course provides participants with hands-on practical exercises that reinforce their ability to perform triage and decontamination procedures and classify residual contamination using various monitoring equipment. As part of the one-day course, participants also perform mass-casualty, decontamination, and monitoring operations within a toxic-agent training facility while wearing personal protective equipment (PPE) Level C. The HOT-I course reinforces the skills that are necessary for a safe and effective response to a CBRNE incident.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+<li>Use PPE in a CBRNE environment.</li>
+<li>Operate sampling and monitoring equipment to detect both radiological and chemical contaminates.</li>
+<li>Conduct mass casualty triage operations while wearing PPE.</li>
+<li>Conduct mass decontamination and technical decontamination operations.</li>
+</ul>
+<h2>Prerequisites and Requirements</h2>
+<p>To be eligible for the course, the student must successfully complete the following courses:</p>
+<ul>
+<li>AWR-160, WMD/Terrorism Awareness for Emergency Responders, and</li>
+<li>CDP courses that provide CBRNE response training, such as PER-267 Emergency Medical Operations for CBRNE Incidents.</li>
+<li>Participants should be able to don and doff PPE Level C, don and doff self-contained breathing apparatus, lift 40 pounds or more, and meet CDP medical criteria.</li>
+</ul>
+<h2>Course Length</h2>
+<p>1.0 days</p>
+<h2>Continuing Education Credits</h2>
+<ul>
+<li>The Center for Domestic Preparedness is authorized by IACET to offer 0.8 CEUs for this program.</li>
+<li>Nursing, through Alabama Board of Nursing (nurses only): 8</li>
+<li>Police Officer Standards and Training (POST); approved per state): 8</li>
+</ul>
+</div>
+</div>

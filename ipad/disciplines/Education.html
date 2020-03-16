@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="./coursestyle.css">
+</head>
+<body>
+<div class="main">
+<button id="home" onclick="history.go(-1)">Home</button>
+
+<!-- DISCIPLINE Title--> <div class="top"><div class=fema><img class="fema" src="fema.png"></img></div>Education</div>
+
+<!--buttons-->
+<div class="left">
+
+<button class="button" id="IC">Incident Command: Capabilities, Planning and Response Actions for All Hazards (IC)</button>    
+
+<button class="button" id="ITC">Instructor Training Certification (ITC)</button>
+
+<button class="button" id="MPI">Managing Public Information for All Hazards Incidents (MPI)</button>
+
+<button class="button" id="SAAT">Standardized Awareness Authorized Training Program, Train-the-Trainer (SAAT)</button>
+
+</div>
+<!--End of buttons-->
+
+ <div class="infobox">
+<div class="right" id="classinfo">
+
+</div>
+</div>
+<script src="../jquery-3.2.0.js"></script>
+<script>
+    $(function(){
+        $('#classinfo').load('http://192.168.0.5/ipad/courseinfo/IC.txt');
+    });
+</script>
+
+<script>
+    $(document).ready(function(){
+        $('button').each(function(index, value) {
+            $(`#${this.id}`).click(function(){
+                $('#classinfo').load(`http://192.168.0.5/ipad/courseinfo/${this.id}.txt`);
+            });
+        });
+    });
+</script>
+
+<script>
+var a=document.getElementsByTagName("a");
+for(var i=0;i<a.length;i++) {
+    if(!a[i].onclick && a[i].getAttribute("target") != "_blank") {
+        a[i].onclick=function() {
+                window.location=this.getAttribute("href");
+                return false; 
+        }
+    }
+}
+</script>
+</body>
+
+</html>
